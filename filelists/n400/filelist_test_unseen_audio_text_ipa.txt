@@ -1,0 +1,720 @@
+sub-01/sub-01-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-01/sub-01-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-01/sub-01-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-01/sub-01-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-01/sub-01-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-01/sub-01-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-01/sub-01-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-01/sub-01-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-01/sub-01-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-01/sub-01-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-01/sub-01-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-01/sub-01-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-01/sub-01-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-01/sub-01-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-01/sub-01-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-01/sub-01-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-01/sub-01-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-01/sub-01-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-01/sub-01-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-01/sub-01-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-01/sub-01-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-01/sub-01-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-01/sub-01-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-01/sub-01-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-01/sub-01-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-01/sub-01-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-01/sub-01-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-01/sub-01-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-01/sub-01-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-01/sub-01-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-01/sub-01-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-01/sub-01-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-01/sub-01-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-01/sub-01-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-01/sub-01-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-01/sub-01-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-01/sub-01-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-01/sub-01-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-01/sub-01-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-01/sub-01-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-02/sub-02-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-02/sub-02-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-02/sub-02-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-02/sub-02-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-02/sub-02-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-02/sub-02-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-02/sub-02-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-02/sub-02-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-02/sub-02-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-02/sub-02-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-02/sub-02-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-02/sub-02-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-02/sub-02-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-02/sub-02-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-02/sub-02-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-02/sub-02-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-02/sub-02-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-02/sub-02-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-02/sub-02-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-02/sub-02-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-02/sub-02-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-02/sub-02-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-02/sub-02-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-02/sub-02-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-02/sub-02-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-02/sub-02-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-02/sub-02-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-02/sub-02-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-02/sub-02-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-02/sub-02-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-02/sub-02-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-02/sub-02-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-02/sub-02-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-02/sub-02-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-02/sub-02-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-02/sub-02-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-02/sub-02-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-02/sub-02-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-02/sub-02-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-02/sub-02-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-03/sub-03-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-03/sub-03-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-03/sub-03-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-03/sub-03-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-03/sub-03-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-03/sub-03-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-03/sub-03-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-03/sub-03-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-03/sub-03-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-03/sub-03-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-03/sub-03-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-03/sub-03-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-03/sub-03-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-03/sub-03-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-03/sub-03-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-03/sub-03-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-03/sub-03-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-03/sub-03-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-03/sub-03-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-03/sub-03-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-03/sub-03-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-03/sub-03-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-03/sub-03-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-03/sub-03-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-03/sub-03-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-03/sub-03-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-03/sub-03-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-03/sub-03-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-03/sub-03-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-03/sub-03-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-03/sub-03-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-03/sub-03-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-03/sub-03-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-03/sub-03-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-03/sub-03-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-03/sub-03-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-03/sub-03-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-03/sub-03-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-03/sub-03-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-03/sub-03-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-04/sub-04-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-04/sub-04-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-04/sub-04-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-04/sub-04-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-04/sub-04-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-04/sub-04-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-04/sub-04-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-04/sub-04-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-04/sub-04-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-04/sub-04-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-04/sub-04-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-04/sub-04-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-04/sub-04-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-04/sub-04-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-04/sub-04-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-04/sub-04-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-04/sub-04-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-04/sub-04-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-04/sub-04-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-04/sub-04-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-04/sub-04-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-04/sub-04-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-04/sub-04-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-04/sub-04-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-04/sub-04-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-04/sub-04-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-04/sub-04-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-04/sub-04-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-04/sub-04-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-04/sub-04-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-04/sub-04-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-04/sub-04-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-04/sub-04-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-04/sub-04-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-04/sub-04-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-04/sub-04-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-04/sub-04-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-04/sub-04-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-04/sub-04-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-04/sub-04-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-06/sub-06-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-06/sub-06-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-06/sub-06-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-06/sub-06-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-06/sub-06-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-06/sub-06-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-06/sub-06-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-06/sub-06-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-06/sub-06-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-06/sub-06-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-06/sub-06-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-06/sub-06-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-06/sub-06-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-06/sub-06-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-06/sub-06-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-06/sub-06-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-06/sub-06-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-06/sub-06-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-06/sub-06-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-06/sub-06-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-06/sub-06-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-06/sub-06-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-06/sub-06-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-06/sub-06-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-06/sub-06-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-06/sub-06-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-06/sub-06-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-06/sub-06-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-06/sub-06-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-06/sub-06-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-06/sub-06-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-06/sub-06-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-06/sub-06-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-06/sub-06-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-06/sub-06-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-06/sub-06-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-06/sub-06-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-06/sub-06-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-06/sub-06-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-06/sub-06-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-07/sub-07-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-07/sub-07-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-07/sub-07-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-07/sub-07-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-07/sub-07-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-07/sub-07-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-07/sub-07-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-07/sub-07-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-07/sub-07-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-07/sub-07-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-07/sub-07-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-07/sub-07-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-07/sub-07-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-07/sub-07-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-07/sub-07-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-07/sub-07-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-07/sub-07-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-07/sub-07-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-07/sub-07-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-07/sub-07-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-07/sub-07-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-07/sub-07-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-07/sub-07-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-07/sub-07-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-07/sub-07-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-07/sub-07-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-07/sub-07-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-07/sub-07-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-07/sub-07-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-07/sub-07-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-07/sub-07-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-07/sub-07-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-07/sub-07-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-07/sub-07-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-07/sub-07-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-07/sub-07-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-07/sub-07-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-07/sub-07-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-07/sub-07-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-07/sub-07-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-08/sub-08-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-08/sub-08-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-08/sub-08-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-08/sub-08-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-08/sub-08-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-08/sub-08-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-08/sub-08-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-08/sub-08-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-08/sub-08-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-08/sub-08-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-08/sub-08-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-08/sub-08-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-08/sub-08-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-08/sub-08-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-08/sub-08-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-08/sub-08-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-08/sub-08-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-08/sub-08-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-08/sub-08-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-08/sub-08-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-08/sub-08-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-08/sub-08-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-08/sub-08-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-08/sub-08-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-08/sub-08-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-08/sub-08-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-08/sub-08-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-08/sub-08-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-08/sub-08-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-08/sub-08-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-08/sub-08-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-08/sub-08-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-08/sub-08-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-08/sub-08-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-08/sub-08-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-08/sub-08-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-08/sub-08-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-08/sub-08-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-08/sub-08-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-08/sub-08-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-09/sub-09-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-09/sub-09-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-09/sub-09-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-09/sub-09-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-09/sub-09-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-09/sub-09-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-09/sub-09-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-09/sub-09-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-09/sub-09-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-09/sub-09-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-09/sub-09-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-09/sub-09-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-09/sub-09-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-09/sub-09-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-09/sub-09-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-09/sub-09-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-09/sub-09-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-09/sub-09-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-09/sub-09-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-09/sub-09-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-09/sub-09-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-09/sub-09-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-09/sub-09-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-09/sub-09-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-09/sub-09-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-09/sub-09-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-09/sub-09-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-09/sub-09-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-09/sub-09-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-09/sub-09-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-09/sub-09-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-09/sub-09-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-09/sub-09-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-09/sub-09-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-09/sub-09-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-09/sub-09-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-09/sub-09-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-09/sub-09-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-09/sub-09-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-09/sub-09-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-11/sub-11-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-11/sub-11-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-11/sub-11-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-11/sub-11-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-11/sub-11-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-11/sub-11-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-11/sub-11-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-11/sub-11-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-11/sub-11-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-11/sub-11-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-11/sub-11-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-11/sub-11-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-11/sub-11-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-11/sub-11-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-11/sub-11-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-11/sub-11-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-11/sub-11-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-11/sub-11-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-11/sub-11-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-11/sub-11-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-11/sub-11-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-11/sub-11-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-11/sub-11-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-11/sub-11-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-11/sub-11-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-11/sub-11-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-11/sub-11-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-11/sub-11-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-11/sub-11-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-11/sub-11-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-11/sub-11-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-11/sub-11-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-11/sub-11-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-11/sub-11-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-11/sub-11-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-11/sub-11-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-11/sub-11-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-11/sub-11-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-11/sub-11-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-11/sub-11-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-12/sub-12-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-12/sub-12-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-12/sub-12-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-12/sub-12-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-12/sub-12-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-12/sub-12-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-12/sub-12-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-12/sub-12-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-12/sub-12-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-12/sub-12-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-12/sub-12-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-12/sub-12-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-12/sub-12-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-12/sub-12-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-12/sub-12-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-12/sub-12-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-12/sub-12-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-12/sub-12-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-12/sub-12-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-12/sub-12-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-12/sub-12-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-12/sub-12-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-12/sub-12-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-12/sub-12-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-12/sub-12-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-12/sub-12-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-12/sub-12-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-12/sub-12-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-12/sub-12-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-12/sub-12-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-12/sub-12-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-12/sub-12-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-12/sub-12-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-12/sub-12-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-12/sub-12-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-12/sub-12-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-12/sub-12-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-12/sub-12-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-12/sub-12-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-12/sub-12-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-13/sub-13-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-13/sub-13-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-13/sub-13-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-13/sub-13-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-13/sub-13-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-13/sub-13-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-13/sub-13-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-13/sub-13-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-13/sub-13-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-13/sub-13-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-13/sub-13-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-13/sub-13-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-13/sub-13-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-13/sub-13-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-13/sub-13-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-13/sub-13-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-13/sub-13-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-13/sub-13-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-13/sub-13-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-13/sub-13-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-13/sub-13-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-13/sub-13-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-13/sub-13-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-13/sub-13-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-13/sub-13-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-13/sub-13-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-13/sub-13-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-13/sub-13-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-13/sub-13-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-13/sub-13-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-13/sub-13-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-13/sub-13-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-13/sub-13-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-13/sub-13-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-13/sub-13-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-13/sub-13-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-13/sub-13-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-13/sub-13-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-13/sub-13-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-13/sub-13-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-14/sub-14-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-14/sub-14-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-14/sub-14-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-14/sub-14-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-14/sub-14-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-14/sub-14-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-14/sub-14-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-14/sub-14-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-14/sub-14-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-14/sub-14-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-14/sub-14-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-14/sub-14-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-14/sub-14-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-14/sub-14-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-14/sub-14-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-14/sub-14-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-14/sub-14-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-14/sub-14-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-14/sub-14-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-14/sub-14-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-14/sub-14-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-14/sub-14-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-14/sub-14-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-14/sub-14-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-14/sub-14-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-14/sub-14-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-14/sub-14-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-14/sub-14-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-14/sub-14-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-14/sub-14-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-14/sub-14-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-14/sub-14-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-14/sub-14-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-14/sub-14-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-14/sub-14-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-14/sub-14-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-14/sub-14-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-14/sub-14-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-14/sub-14-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-14/sub-14-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-16/sub-16-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-16/sub-16-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-16/sub-16-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-16/sub-16-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-16/sub-16-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-16/sub-16-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-16/sub-16-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-16/sub-16-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-16/sub-16-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-16/sub-16-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-16/sub-16-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-16/sub-16-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-16/sub-16-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-16/sub-16-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-16/sub-16-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-16/sub-16-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-16/sub-16-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-16/sub-16-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-16/sub-16-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-16/sub-16-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-16/sub-16-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-16/sub-16-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-16/sub-16-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-16/sub-16-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-16/sub-16-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-16/sub-16-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-16/sub-16-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-16/sub-16-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-16/sub-16-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-16/sub-16-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-16/sub-16-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-16/sub-16-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-16/sub-16-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-16/sub-16-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-16/sub-16-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-16/sub-16-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-16/sub-16-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-16/sub-16-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-16/sub-16-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-16/sub-16-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-17/sub-17-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-17/sub-17-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-17/sub-17-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-17/sub-17-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-17/sub-17-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-17/sub-17-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-17/sub-17-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-17/sub-17-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-17/sub-17-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-17/sub-17-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-17/sub-17-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-17/sub-17-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-17/sub-17-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-17/sub-17-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-17/sub-17-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-17/sub-17-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-17/sub-17-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-17/sub-17-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-17/sub-17-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-17/sub-17-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-17/sub-17-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-17/sub-17-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-17/sub-17-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-17/sub-17-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-17/sub-17-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-17/sub-17-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-17/sub-17-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-17/sub-17-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-17/sub-17-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-17/sub-17-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-17/sub-17-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-17/sub-17-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-17/sub-17-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-17/sub-17-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-17/sub-17-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-17/sub-17-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-17/sub-17-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-17/sub-17-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-17/sub-17-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-17/sub-17-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-19/sub-19-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-19/sub-19-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-19/sub-19-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-19/sub-19-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-19/sub-19-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-19/sub-19-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-19/sub-19-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-19/sub-19-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-19/sub-19-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-19/sub-19-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-19/sub-19-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-19/sub-19-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-19/sub-19-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-19/sub-19-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-19/sub-19-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-19/sub-19-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-19/sub-19-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-19/sub-19-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-19/sub-19-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-19/sub-19-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-19/sub-19-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-19/sub-19-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-19/sub-19-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-19/sub-19-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-19/sub-19-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-19/sub-19-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-19/sub-19-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-19/sub-19-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-19/sub-19-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-19/sub-19-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-19/sub-19-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-19/sub-19-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-19/sub-19-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-19/sub-19-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-19/sub-19-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-19/sub-19-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-19/sub-19-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-19/sub-19-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-19/sub-19-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-19/sub-19-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-20/sub-20-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-20/sub-20-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-20/sub-20-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-20/sub-20-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-20/sub-20-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-20/sub-20-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-20/sub-20-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-20/sub-20-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-20/sub-20-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-20/sub-20-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-20/sub-20-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-20/sub-20-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-20/sub-20-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-20/sub-20-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-20/sub-20-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-20/sub-20-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-20/sub-20-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-20/sub-20-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-20/sub-20-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-20/sub-20-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-20/sub-20-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-20/sub-20-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-20/sub-20-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-20/sub-20-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-20/sub-20-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-20/sub-20-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-20/sub-20-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-20/sub-20-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-20/sub-20-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-20/sub-20-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-20/sub-20-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-20/sub-20-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-20/sub-20-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-20/sub-20-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-20/sub-20-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-20/sub-20-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-20/sub-20-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-20/sub-20-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-20/sub-20-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-20/sub-20-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-21/sub-21-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-21/sub-21-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-21/sub-21-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-21/sub-21-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-21/sub-21-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-21/sub-21-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-21/sub-21-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-21/sub-21-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-21/sub-21-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-21/sub-21-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-21/sub-21-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-21/sub-21-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-21/sub-21-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-21/sub-21-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-21/sub-21-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-21/sub-21-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-21/sub-21-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-21/sub-21-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-21/sub-21-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-21/sub-21-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-21/sub-21-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-21/sub-21-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-21/sub-21-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-21/sub-21-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-21/sub-21-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-21/sub-21-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-21/sub-21-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-21/sub-21-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-21/sub-21-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-21/sub-21-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-21/sub-21-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-21/sub-21-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-21/sub-21-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-21/sub-21-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-21/sub-21-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-21/sub-21-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-21/sub-21-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-21/sub-21-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-21/sub-21-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-21/sub-21-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.
+sub-22/sub-22-_-(LD5_Eliminated)NPC_live||The woods are where bears live.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz lˈaɪv.
+sub-22/sub-22-_-NPC_aisle||The bride walked down the aisle.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðɪ ˈaɪəl.
+sub-22/sub-22-_-NPC_animals||The sign said do not feed the animals.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðɪ ˈænɪməlz.
+sub-22/sub-22-_-NPC_apple||His favorite fruit was a red crisp apple.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp ˈæpəl.
+sub-22/sub-22-_-NPC_arm||I have two legs and two arms.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː ˈɑːɹmz.
+sub-22/sub-22-_-NPC_bag||He puts his lunch in a paper bag.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈæɡ.
+sub-22/sub-22-_-NPC_bank||My mom puts money in the bank.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə bˈæŋk.
+sub-22/sub-22-_-NPC_button||On the remote he clicked the button.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə bˈʌʔn̩.
+sub-22/sub-22-_-NPC_cart||At the store I pushed the cart.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə kˈɑːɹt.
+sub-22/sub-22-_-NPC_chores||My mom makes me do household chores.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld tʃˈoːɹz.
+sub-22/sub-22-_-NPC_clothes||My parents fold my clothes.||maɪ pˈɛɹənts fˈoʊld maɪ klˈoʊðz.
+sub-22/sub-22-_-NPC_cribs||Babies sleep in cribs.||bˈeɪbiz slˈiːp ɪn kɹˈɪbz.
+sub-22/sub-22-_-NPC_cup||I drink from a cup.||aɪ dɹˈɪŋk fɹʌm ɐ kˈʌp.
+sub-22/sub-22-_-NPC_dream||She woke up after a bad dream.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd dɹˈiːm.
+sub-22/sub-22-_-NPC_frog||Ribbit goes the frog.||ɹˈɪbɪt ɡoʊz ðə fɹˈɑːɡ.
+sub-22/sub-22-_-NPC_fur||Cats have soft fur.||kˈæts hæv sˈɔft fˈɜː.
+sub-22/sub-22-_-NPC_mouse||The cat chased the mouse.||ðə kˈæt tʃˈeɪst ðə mˈaʊs.
+sub-22/sub-22-_-NPC_one||First place is number one.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ wˌʌn.
+sub-22/sub-22-_-NPC_pink||Pigs are colored pink.||pˈɪɡz ɑːɹ kˈʌlɚd pˈɪŋk.
+sub-22/sub-22-_-NPC_snake||Hiss goes the snake.||hˈɪs ɡoʊz ðə snˈeɪk.
+sub-22/sub-22-_-NPI_bear(pie)||The woods had a big brown scary pie.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi pˈaɪ.
+sub-22/sub-22-_-NPI_bite(north)||He had an itchy bug north.||hiː hæd ɐn ˈɪtʃi bˈʌɡ nˈɔːɹθ.
+sub-22/sub-22-_-NPI_cages(woman)||Animals are locked in woman.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn wˈʊmən.
+sub-22/sub-22-_-NPI_card(fly)||I signed a birthday fly.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ flˈaɪ.
+sub-22/sub-22-_-NPI_cliff(sheep)||He stood at the edge of a sheep.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə ʃˈiːp.
+sub-22/sub-22-_-NPI_cry(fork)||When I am sad I fork.||wˌɛn aɪɐm sˈæd aɪ fˈɔːɹk.
+sub-22/sub-22-_-NPI_dare(brick)||Lets play truth or brick.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ bɹˈɪk.
+sub-22/sub-22-_-NPI_dice(art)||In games I roll the art.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðɪ ˈɑːɹt.
+sub-22/sub-22-_-NPI_down(tie)||She told me to calm tie.||ʃiː tˈoʊld mˌiː tə kˈɑːm tˈaɪ.
+sub-22/sub-22-_-NPI_fall(duck)||After summer is duck.||ˈæftɚ sˈʌmɚɹ ɪz dˈʌk.
+sub-22/sub-22-_-NPI_fork(cleats)||He eats steak with a knife and cleats.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd klˈiːts.
+sub-22/sub-22-_-NPI_gel(sign)||He styled his hair with sign.||hiː stˈaɪld hɪz hˈɛɹ wɪð sˈaɪn.
+sub-22/sub-22-_-NPI_night(inch)||It is dark at inch.||ɪɾ ɪz dˈɑːɹk æɾ ˈɪntʃ.
+sub-22/sub-22-_-NPI_nine(cat)||The number before ten is cat.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz kˈæt.
+sub-22/sub-22-_-NPI_one(cold)||First place is number cold.||fˈɜːst plˈeɪs ɪz nˈʌmbɚ kˈoʊld.
+sub-22/sub-22-_-NPI_out(ant)||Three strikes and you are ant.||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈænt.
+sub-22/sub-22-_-NPI_pink(door)||Pigs are colored door.||pˈɪɡz ɑːɹ kˈʌlɚd dˈoːɹ.
+sub-22/sub-22-_-NPI_plank(shark)||The pirate said walk the shark.||ðə pˈaɪɹət sˈɛd wˈɔːk ðə ʃˈɑːɹk.
+sub-22/sub-22-_-NPI_popped(square)||The water balloon was so full it square.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt skwˈɛɹ.
+sub-22/sub-22-_-NPI_round(kiss)||The ball is not square but kiss.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt kˈɪs.

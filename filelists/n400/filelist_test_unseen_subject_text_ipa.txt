@@ -1,0 +1,800 @@
+sub-23/sub-23-_-(LD5_Eliminated)NPC_beard||Santa has a big white beard.||sˈæntə hɐz ɐ bˈɪɡ wˈaɪt bˈɪɹd.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_bee||I was stung by a buzzing bee.||aɪ wʌz stˈʌŋ baɪ ɐ bˈʌzɪŋ bˈiː.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_bench||He liked to sit on the park bench.||hiː lˈaɪkt tə sˈɪt ɔnðə pˈɑːɹk bˈɛntʃ.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_chain||Prisoners walk with a ball and chain.||pɹˈɪzənɚz wˈɔːk wɪð ɐ bˈɔːl ænd tʃˈeɪn.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_cleats||For soccer you wear cleats.||fɔːɹ sˈɑːkɚ juː wˈɛɹ klˈiːts.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_coal||Santa gives bad kids coal.||sˈæntə ɡˈɪvz bˈæd kˈɪdz kˈoʊl.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_cut||I got a hair cut.||aɪ ɡɑːt ɐ hˈɛɹ kˈʌt.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_cute||She thinks all baby animals are cute.||ʃiː θˈɪŋks ˈɔːl bˈeɪbi ˈænɪməlz ɑːɹ kjˈuːt.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_eggs||For breakfast she has bacon and eggs.||fɔːɹ bɹˈɛkfəst ʃiː hɐz bˈeɪkən ænd ˈɛɡz.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_found||My hat was in the lost and found.||maɪ hˈæt wʌz ɪnðə lˈɔst ænd fˈaʊnd.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_fried||He likes his chicken deep fried.||hiː lˈaɪks hɪz tʃˈɪkɪn dˈiːp fɹˈaɪd.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_holes||My dog digs holes.||maɪ dˈɑːɡ dˈɪɡz hˈoʊlz.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_pole||Santa lives at the north pole.||sˈæntə lˈaɪvz æt ðə nˈɔːɹθ pˈoʊl.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_rings||Before school starts the bell rings.||bᵻfˌoːɹ skˈuːl stˈɑːɹts ðə bˈɛl ɹˈɪŋz.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_roar||The lion says roar.||ðə lˈaɪən sˈɛz ɹˈoːɹ.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_school||Jeff is too cool for school.||dʒˈɛf ɪz tˈuː kˈuːl fɔːɹ skˈuːl.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_warm||The water was luke warm.||ðə wˈɔːɾɚ wʌz lˈuːk wˈɔːɹm.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_water||The boat floats on the water.||ðə bˈoʊt flˈoʊts ɔnðə wˈɔːɾɚ.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_weight||The girl gained weight.||ðə ɡˈɜːl ɡˈeɪnd wˈeɪt.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_beard(catch)||Santa has a big white catch.||sˈæntə hɐz ɐ bˈɪɡ wˈaɪt kˈætʃ.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_bee(burn)||I was stung by a buzzing burn.||aɪ wʌz stˈʌŋ baɪ ɐ bˈʌzɪŋ bˈɜːn.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_bench(grade)||He liked to sit on the park grade.||hiː lˈaɪkt tə sˈɪt ɔnðə pˈɑːɹk ɡɹˈeɪd.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_chain(flood)||Prisoners walk with a ball and flood.||pɹˈɪzənɚz wˈɔːk wɪð ɐ bˈɔːl ænd flˈʌd.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_cleats(wood)||For soccer you wear wood.||fɔːɹ sˈɑːkɚ juː wˈɛɹ wˈʊd.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_coal(chain)||Santa gives bad kids chain.||sˈæntə ɡˈɪvz bˈæd kˈɪdz tʃˈeɪn.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_cut(boat)||I got a hair boat.||aɪ ɡɑːt ɐ hˈɛɹ bˈoʊt.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_cute(fence)||She thinks all baby animals are fence.||ʃiː θˈɪŋks ˈɔːl bˈeɪbi ˈænɪməlz ɑːɹ fˈɛns.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_eggs(brake)||For breakfast she has bacon and brake.||fɔːɹ bɹˈɛkfəst ʃiː hɐz bˈeɪkən ænd bɹˈeɪk.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_found(goat)||My hat was in the lost and goat.||maɪ hˈæt wʌz ɪnðə lˈɔst ænd ɡˈoʊt.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_fried(mom)||He likes his chicken deep mom.||hiː lˈaɪks hɪz tʃˈɪkɪn dˈiːp mˈɑːm.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_holes(spring)||My dog digs spring.||maɪ dˈɑːɡ dˈɪɡz spɹˈɪŋ.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_live(truck)||The woods are where bears truck.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz tɹˈʌk.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_pole(ring)||Santa lives at the north ring.||sˈæntə lˈaɪvz æt ðə nˈɔːɹθ ɹˈɪŋ.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_rings(style)||Before school starts the bell style.||bᵻfˌoːɹ skˈuːl stˈɑːɹts ðə bˈɛl stˈaɪl.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_roar(mold)||The lion says mold.||ðə lˈaɪən sˈɛz mˈoʊld.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_school(cut)||Jeff is too cool for cut.||dʒˈɛf ɪz tˈuː kˈuːl fɔːɹ kˈʌt.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_warm(skunk)||The water was luke skunk.||ðə wˈɔːɾɚ wʌz lˈuːk skˈʌŋk.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_water(fur)||The boat floats on the fur.||ðə bˈoʊt flˈoʊts ɔnðə fˈɜː.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_weight(sky)||The girl gained sky.||ðə ɡˈɜːl ɡˈeɪnd skˈaɪ.
+sub-23/sub-23-_-NPC_ants||The picnic was ruined by crawling ants.||ðə pˈɪknɪk wʌz ɹˈuːɪnd baɪ kɹˈɔːlɪŋ ˈænts.
+sub-23/sub-23-_-NPC_axe||My dad chops wood with an axe.||maɪ dˈæd tʃˈɑːps wˈʊd wɪð ɐn ˈæks.
+sub-23/sub-23-_-NPC_bake||The cake is in the oven to bake.||ðə kˈeɪk ɪz ɪnðɪ ˈʌvən tə bˈeɪk.
+sub-23/sub-23-_-NPC_barn||The farmer's animals live in the barn.||ðə fˈɑːɹmɚz ˈænɪməlz lˈɪv ɪn ðə bˈɑːɹn.
+sub-23/sub-23-_-NPC_bat||The boy hit the ball with  a bat.||ðə bˈɔɪ hˈɪt ðə bˈɔːl wɪð ɐ bˈæt.
+sub-23/sub-23-_-NPC_bath||To get clean I take a bath.||tə ɡɛt klˈiːn aɪ tˈeɪk ɐ bˈæθ.
+sub-23/sub-23-_-NPC_bear||The woods had a big brown scary bear.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi bˈɛɹ.
+sub-23/sub-23-_-NPC_beat||The drummer keeps the beat.||ðə dɹˈʌmɚ kˈiːps ðə bˈiːt.
+sub-23/sub-23-_-NPC_bed||At night I sleep in my bed.||æt nˈaɪt aɪ slˈiːp ɪn maɪ bˈɛd.
+sub-23/sub-23-_-NPC_belt||Around my pants I wear a belt.||ɚɹˈaʊnd maɪ pˈænts aɪ wˈɛɹ ɐ bˈɛlt.
+sub-23/sub-23-_-NPC_bird||Tweet goes the bird.||twˈiːt ɡoʊz ðə bˈɜːd.
+sub-23/sub-23-_-NPC_bite||He had an itchy bug bite.||hiː hæd ɐn ˈɪtʃi bˈʌɡ bˈaɪt.
+sub-23/sub-23-_-NPC_blinking||She lost the staring contest by blinking.||ʃiː lˈɔst ðə stˈɛɹɪŋ kˈɑːntɛst baɪ blˈɪŋkɪŋ.
+sub-23/sub-23-_-NPC_blocks||The baby liked to stack blocks.||ðə bˈeɪbi lˈaɪkt tə stˈæk blˈɑːks.
+sub-23/sub-23-_-NPC_bloom||In spring the  flowers bloom.||ɪn spɹˈɪŋ ðə flˈaʊɚz blˈuːm.
+sub-23/sub-23-_-NPC_blue||The color of the sky is blue.||ðə kˈʌlɚɹ ʌvðə skˈaɪ ɪz blˈuː.
+sub-23/sub-23-_-NPC_boat||We went fishing on a boat.||wiː wɛnt fˈɪʃɪŋ ˌɔn ɐ bˈoʊt.
+sub-23/sub-23-_-NPC_bones||The Museum showed dinosaur bones.||ðə mjuːzˈiəm ʃˈoʊd dˈaɪnəsˌɔːɹ bˈoʊnz.
+sub-23/sub-23-_-NPC_books||He likes to read books.||hiː lˈaɪks tə ɹˈiːd bˈʊks.
+sub-23/sub-23-_-NPC_bottle||The baby drinks from his bottle.||ðə bˈeɪbi dɹˈɪŋks fɹʌm hɪz bˈɑːɾəl.
+sub-23/sub-23-_-NPC_bow||On the present I tied a bow.||ɔnðə pɹˈɛzənt aɪ tˈaɪd ɐ bˈoʊ.
+sub-23/sub-23-_-NPC_bowl||He pours cereal into a bowl.||hiː pˈoːɹz sˈiəɹɪəl ˌɪntʊ ɐ bˈoʊl.
+sub-23/sub-23-_-NPC_brakes||The car stopped with its brakes.||ðə kˈɑːɹ stˈɑːpt wɪð ɪts bɹˈeɪks.
+sub-23/sub-23-_-NPC_bread||She baked a loaf of bread.||ʃiː bˈeɪkt ɐ lˈoʊf ʌv bɹˈɛd.
+sub-23/sub-23-_-NPC_bricks||My fireplace is made of red bricks.||maɪ fˈaɪɚpleɪs ɪz mˌeɪd ʌv ɹˈɛd bɹˈɪks.
+sub-23/sub-23-_-NPC_bridge||Boats sail under the bridge.||bˈoʊts sˈeɪl ˌʌndɚ ðə bɹˈɪdʒ.
+sub-23/sub-23-_-NPC_bright||I wear sunglasses because the sun is bright.||aɪ wˈɛɹ sˈʌŋɡlæsᵻz bɪkˈʌz ðə sˈʌn ɪz bɹˈaɪt.
+sub-23/sub-23-_-NPC_broke||He wore a cast because his arm broke.||hiː wˈoːɹ ɐ kˈæst bɪkˈʌz hɪz ˈɑːɹm bɹˈoʊk.
+sub-23/sub-23-_-NPC_broom||I sweep the floor with a broom.||aɪ swˈiːp ðə flˈoːɹ wɪð ɐ bɹˈuːm.
+sub-23/sub-23-_-NPC_brown||A tree trunk is colored brown.||ɐ tɹˈiː tɹˈʌŋk ɪz kˈʌlɚd bɹˈaʊn.
+sub-23/sub-23-_-NPC_bruise||I hit my arm and got a bruise.||aɪ hˈɪt maɪ ˈɑːɹm ænd ɡɑːt ɐ bɹˈuːz.
+sub-23/sub-23-_-NPC_bulb||Tom replaced the light bulb.||tˈɑːm ɹᵻplˈeɪst ðə lˈaɪt bˈʌlb.
+sub-23/sub-23-_-NPC_bus||To school I ride the yellow bus.||tə skˈuːl aɪ ɹˈaɪd ðə jˈɛloʊ bˈʌs.
+sub-23/sub-23-_-NPC_bushes||Outside a man trimmed the bushes.||aʊtsˈaɪd ɐ mˈæn tɹˈɪmd ðə bˈʊʃᵻz.
+sub-23/sub-23-_-NPC_cages||Animals are locked in cages.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn kˈeɪdʒᵻz.
+sub-23/sub-23-_-NPC_camping||We bring a tent to go camping.||wiː bɹˈɪŋ ɐ tˈɛnt tə ɡˌoʊ kˈæmpɪŋ.
+sub-23/sub-23-_-NPC_candles||She blew out the birthday candles.||ʃiː blˈuː ˈaʊt ðə bˈɜːθdeɪ kˈændəlz.
+sub-23/sub-23-_-NPC_cane||The old man walked with a cane.||ðɪ ˈoʊld mˈæn wˈɔːkt wɪð ɐ kˈeɪn.
+sub-23/sub-23-_-NPC_cap||He screwed off the bottle cap.||hiː skɹˈuːd ˈɔf ðə bˈɑːɾəl kˈæp.
+sub-23/sub-23-_-NPC_cape||Superman wears a red cape.||sˈuːpɚmˌæn wˈɛɹz ɐ ɹˈɛd kˈeɪp.
+sub-23/sub-23-_-NPC_car||He puts gas in his car.||hiː pˌʊts ɡˈæs ɪn hɪz kˈɑːɹ.
+sub-23/sub-23-_-NPC_card||I signed a birthday card.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ kˈɑːɹd.
+sub-23/sub-23-_-NPC_castle||A princess lives in a castle.||ɐ pɹˈɪnsɛs lˈaɪvz ɪn ɐ kˈæsəl.
+sub-23/sub-23-_-NPC_cat||Meow goes the cat.||mɪˈaʊ ɡoʊz ðə kˈæt.
+sub-23/sub-23-_-NPC_catch||I throw and you catch.||aɪ θɹˈoʊ ænd juː kˈætʃ.
+sub-23/sub-23-_-NPC_caves||Bats live in caves.||bˈæts lˈɪv ɪn kˈeɪvz.
+sub-23/sub-23-_-NPC_chalk||On the sidewalk I draw with  chalk.||ɔnðə sˈaɪdwɔːk aɪ dɹˈɔː wɪð tʃˈɔːk.
+sub-23/sub-23-_-NPC_cheese||Her favorite food is mac and cheese.||hɜː fˈeɪvɚɹᵻt fˈuːd ɪz mˈæk ænd tʃˈiːz.
+sub-23/sub-23-_-NPC_chest||My heart was pounding in my chest.||maɪ hˈɑːɹt wʌz pˈaʊndɪŋ ɪn maɪ tʃˈɛst.
+sub-23/sub-23-_-NPC_chick||A baby chicken is a chick.||ɐ bˈeɪbi tʃˈɪkɪn ɪz ɐ tʃˈɪk.
+sub-23/sub-23-_-NPC_claws||The cat has sharp claws.||ðə kˈæt hɐz ʃˈɑːɹp klˈɔːz.
+sub-23/sub-23-_-NPC_clay||In art class we mold clay.||ɪn ˈɑːɹt klˈæs wiː mˈoʊld klˈeɪ.
+sub-23/sub-23-_-NPC_clean||I keep my room clean.||aɪ kˈiːp maɪ ɹˈuːm klˈiːn.
+sub-23/sub-23-_-NPC_cliff||He stood at the edge of a cliff.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə klˈɪf.
+sub-23/sub-23-_-NPC_clock||Tick tock goes the clock.||tˈɪk tˈɑːk ɡoʊz ðə klˈɑːk.
+sub-23/sub-23-_-NPC_clouds||In the sky are white fluffy clouds.||ɪnðə skˈaɪ ɑːɹ wˈaɪt flˈʌfi klˈaʊdz.
+sub-23/sub-23-_-NPC_clown||I laughed at the circus clown.||aɪ lˈæft æt ðə sˈɜːkəs klˈaʊn.
+sub-23/sub-23-_-NPC_clues||The detectives found many clues.||ðə dɪtˈɛktɪvz fˈaʊnd mˈɛni klˈuːz.
+sub-23/sub-23-_-NPC_coach||I was taught by my soccer coach.||aɪ wʌz tˈɔːt baɪ maɪ sˈɑːkɚ kˈoʊtʃ.
+sub-23/sub-23-_-NPC_coat||I put on my rain coat.||aɪ pˌʊt ˌɔn maɪ ɹˈeɪn kˈoʊt.
+sub-23/sub-23-_-NPC_cob||She eats corn on the cob.||ʃiː ˈiːts kˈɔːɹn ɔnðə kˈɑːb.
+sub-23/sub-23-_-NPC_cold||Winter is very cold.||wˈɪntɚɹ ɪz vˈɛɹi kˈoʊld.
+sub-23/sub-23-_-NPC_cone||He eats his ice cream on a cone.||hiː ˈiːts hɪz ˈaɪs kɹˈiːm ˌɔn ɐ kˈoʊn.
+sub-23/sub-23-_-NPC_cop||He was pulled over by a cop.||hiː wʌz pˈʊld ˌoʊvɚ baɪ ɐ kˈɑːp.
+sub-23/sub-23-_-NPC_couch||I watch tv and sit on the couch.||aɪ wˈɑːtʃ tˌiːvˈiː ænd sˈɪt ɔnðə kˈaʊtʃ.
+sub-23/sub-23-_-NPC_cough||My cold made me sneeze and cough.||maɪ kˈoʊld mˌeɪd mˌiː snˈiːz ænd kˈɔf.
+sub-23/sub-23-_-NPC_cow||Farmers milk the cows.||fˈɑːɹmɚz mˈɪlk ðə kˈaʊz.
+sub-23/sub-23-_-NPC_crafts||I like arts and crafts.||aɪ lˈaɪk ˈɑːɹts ænd kɹˈæfts.
+sub-23/sub-23-_-NPC_cream||I spray whipped cream.||aɪ spɹˈeɪ wˈɪpt kɹˈiːm.
+sub-23/sub-23-_-NPC_crown||A king wears a crown.||ɐ kˈɪŋ wˈɛɹz ɐ kɹˈaʊn.
+sub-23/sub-23-_-NPC_crust||His mom makes her own pie crust.||hɪz mˈɑːm mˌeɪks hɜːɹ ˈoʊn pˈaɪ kɹˈʌst.
+sub-23/sub-23-_-NPC_cry||When I am sad I cry.||wˌɛn aɪɐm sˈæd aɪ kɹˈaɪ.
+sub-23/sub-23-_-NPC_dancers||Ballerinas are great dancers.||bˌælɚɹˈiːnəz ɑːɹ ɡɹˈeɪt dˈænsɚz.
+sub-23/sub-23-_-NPC_dare||Lets play truth or dare.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ dˈɛɹ.
+sub-23/sub-23-_-NPC_deep||The pool was six feet deep.||ðə pˈuːl wʌz sˈɪks fˈiːt dˈiːp.
+sub-23/sub-23-_-NPC_desk||In school I sit at a desk.||ɪn skˈuːl aɪ sˈɪt æɾə dˈɛsk.
+sub-23/sub-23-_-NPC_dice||In games I roll the dice.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðə dˈaɪs.
+sub-23/sub-23-_-NPC_dip||I love chips and dip.||aɪ lˈʌv tʃˈɪps ænd dˈɪp.
+sub-23/sub-23-_-NPC_dirt||Worms crawl in the dirt.||wˈɜːmz kɹˈɔːl ɪnðə dˈɜːt.
+sub-23/sub-23-_-NPC_dog||Bark says the dog.||bˈɑːɹk sˈɛz ðə dˈɑːɡ.
+sub-23/sub-23-_-NPC_dolls||My sister plays with Barbie dolls.||maɪ sˈɪstɚ plˈeɪz wɪð bˈɑːɹbi dˈɑːlz.
+sub-23/sub-23-_-NPC_door||He shut the door.||hiː ʃˈʌt ðə dˈoːɹ.
+sub-23/sub-23-_-NPC_down||She told me to calm down.||ʃiː tˈoʊld mˌiː tə kˈɑːm dˈaʊn.
+sub-23/sub-23-_-NPC_dress||The bride wears a white dress.||ðə bɹˈaɪd wˈɛɹz ɐ wˈaɪt dɹˈɛs.
+sub-23/sub-23-_-NPC_drill||At school there was a fire drill.||æt skˈuːl ðɛɹwˌʌz ɐ fˈaɪɚ dɹˈɪl.
+sub-23/sub-23-_-NPC_duck||Quack goes the duck.||kwˈæk ɡoʊz ðə dˈʌk.
+sub-23/sub-23-_-NPC_dust||The old table was covered in dust.||ðɪ ˈoʊld tˈeɪbəl wʌz kˈʌvɚd ɪn dˈʌst.
+sub-23/sub-23-_-NPC_ears||I hear with my ears.||aɪ hˈɪɹ wɪð maɪ ˈɪɹz.
+sub-23/sub-23-_-NPC_earth||We live on planet earth.||wiː lˈɪv ˌɔn plˈænɪt ˈɜːθ.
+sub-23/sub-23-_-NPC_eats||The baby wears a bib when he eats.||ðə bˈeɪbi wˈɛɹz ɐ bˈɪb wɛn hiː ˈiːts.
+sub-23/sub-23-_-NPC_eyes||I see with my eyes.||aɪ sˈiː wɪð maɪ ˈaɪz.
+sub-23/sub-23-_-NPC_fake||The diamond was not real it was fake.||ðə dˈaɪəmənd wʌz nˌɑːt ɹˈiːəl ɪt wʌz fˈeɪk.
+sub-23/sub-23-_-NPC_fall||After summer is fall.||ˈæftɚ sˈʌmɚɹ ɪz fˈɔːl.
+sub-23/sub-23-_-NPC_farm||Cows live on a farm.||kˈaʊz lˈaɪv ˌɔn ɐ fˈɑːɹm.
+sub-23/sub-23-_-NPC_fast||Cheetahs  are really fast.||tʃˈiːɾəz ɑːɹ ɹˈiəli fˈæst.
+sub-23/sub-23-_-NPC_fat||Goats are skinny and pigs are fat.||ɡˈoʊts ɑːɹ skˈɪni ænd pˈɪɡz ɑːɹ fˈæt.
+sub-23/sub-23-_-NPC_fear||The brave man had no fear.||ðə bɹˈeɪv mˈæn hæd nˈoʊ fˈɪɹ.
+sub-23/sub-23-_-NPC_fight||The angry boys got in a fight.||ðɪ ˈæŋɡɹi bˈɔɪz ɡɑːt ɪn ɐ fˈaɪt.
+sub-23/sub-23-_-NPC_fin||Sharks have a tail fin.||ʃˈɑːɹks hæv ɐ tˈeɪl fˈɪn.
+sub-23/sub-23-_-NPC_fingers||On one hand I have five fingers.||ˌɔn wˈʌn hˈænd aɪ hæv fˈaɪv fˈɪŋɡɚz.
+sub-23/sub-23-_-NPC_fish||On the boat my dad caught a fish.||ɔnðə bˈoʊt maɪ dˈæd kˈɔːt ɐ fˈɪʃ.
+sub-23/sub-23-_-NPC_fist||I punched the bag with my fist.||aɪ pˈʌntʃt ðə bˈæɡ wɪð maɪ fˈɪst.
+sub-23/sub-23-_-NPC_fixed||The toy broke and needed to be fixed.||ðə tˈɔɪ bɹˈoʊk ænd nˈiːdᵻd təbi fˈɪkst.
+sub-23/sub-23-_-NPC_flag||He waves an American flag.||hiː wˈeɪvz ɐn ɐmˈɛɹɪkən flˈæɡ.
+sub-23/sub-23-_-NPC_flat||The earth is round not flat.||ðɪ ˈɜːθ ɪz ɹˈaʊnd nˌɑːt flˈæt.
+sub-23/sub-23-_-NPC_flip||On the trampoline he did a flip.||ɔnðə tɹˈæmpəlˌiːn hiː dˈɪd ɐ flˈɪp.
+sub-23/sub-23-_-NPC_flop||At the pool he did a belly flop.||æt ðə pˈuːl hiː dˈɪd ɐ bˈɛli flˈɑːp.
+sub-23/sub-23-_-NPC_fly||She swatted the fly.||ʃiː swˈɑːɾᵻd ðə flˈaɪ.
+sub-23/sub-23-_-NPC_foot||I put the sock on my foot.||aɪ pˌʊt ðə sˈɑːk ˌɔn maɪ fˈʊt.
+sub-23/sub-23-_-NPC_fork||He eats steak with a knife and fork.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd fˈɔːɹk.
+sub-23/sub-23-_-NPC_freeze||In the winter the pond will freeze.||ɪnðə wˈɪntɚ ðə pˈɑːnd wɪl fɹˈiːz.
+sub-23/sub-23-_-NPC_fridge||The Jell-O had to chill in the fridge.||ðə dʒˈɛlˈoʊ hædtə tʃˈɪl ɪnðə fɹˈɪdʒ.
+sub-23/sub-23-_-NPC_friend||I play with my best friend.||aɪ plˈeɪ wɪð maɪ bˈɛst fɹˈɛnd.
+sub-23/sub-23-_-NPC_fruit||He likes to eat fresh fruit.||hiː lˈaɪks tʊ ˈiːt fɹˈɛʃ fɹˈuːt.
+sub-23/sub-23-_-NPC_game||His dad watches the football game.||hɪz dˈæd wˈɑːtʃᵻz ðə fˈʊtbɔːl ɡˈeɪm.
+sub-23/sub-23-_-NPC_gel||He styled his hair with gel.||hiː stˈaɪld hɪz hˈɛɹ wɪð dʒˈɛl.
+sub-23/sub-23-_-NPC_ghosts||The house was haunted by ghosts.||ðə hˈaʊs wʌz hˈɔːntᵻd baɪ ɡˈoʊsts.
+sub-23/sub-23-_-NPC_gills||Fish breathe through gills.||fˈɪʃ bɹˈiːð θɹuː ɡˈɪlz.
+sub-23/sub-23-_-NPC_glass||Windows are made of glass.||wˈɪndoʊz ɑːɹ mˌeɪd ʌv ɡlˈæs.
+sub-23/sub-23-_-NPC_gloves||On his hands are a pair of gloves.||ˌɔn hɪz hˈændz ɑːɹ ɐ pˈɛɹ ʌv ɡlˈʌvz.
+sub-23/sub-23-_-NPC_glue||The paper sticks together like glue.||ðə pˈeɪpɚ stˈɪks təɡˌɛðɚ lˈaɪk ɡlˈuː.
+sub-23/sub-23-_-NPC_goal||The soccer team scored a goal.||ðə sˈɑːkɚ tˈiːm skˈoːɹd ɐ ɡˈoʊl.
+sub-23/sub-23-_-NPC_goat||Bah says the sheep and goat.||bˈɑː sˈɛz ðə ʃˈiːp ænd ɡˈoʊt.
+sub-23/sub-23-_-NPC_gold||Wedding rings are made of gold.||wˈɛdɪŋ ɹˈɪŋz ɑːɹ mˌeɪd ʌv ɡˈoʊld.
+sub-23/sub-23-_-NPC_gone||The cookies were eaten until they were gone.||ðə kˈʊkiz wɜːɹ ˈiːʔn̩ ʌntˈɪl ðeɪ wɜː ɡˈɔn.
+sub-23/sub-23-_-NPC_goose||We played duck duck goose.||wiː plˈeɪd dˈʌk dˈʌk ɡˈuːs.
+sub-23/sub-23-_-NPC_grade||In school he is in first grade.||ɪn skˈuːl hiː ɪz ɪn fˈɜːst ɡɹˈeɪd.
+sub-23/sub-23-_-NPC_grapes||Raisins are dried grapes.||ɹˈeɪzənz ɑːɹ dɹˈaɪd ɡɹˈeɪps.
+sub-23/sub-23-_-NPC_gray||The rainy sky was colored gray.||ðə ɹˈeɪni skˈaɪ wʌz kˈʌlɚd ɡɹˈeɪ.
+sub-23/sub-23-_-NPC_green||The grass is colored green.||ðə ɡɹˈæs ɪz kˈʌlɚd ɡɹˈiːn.
+sub-23/sub-23-_-NPC_grill||He cooked hotdogs outside on the grill.||hiː kˈʊkt hˈɑːtdɑːɡz aʊtsˈaɪd ɔnðə ɡɹˈɪl.
+sub-23/sub-23-_-NPC_guess||On an answer he made a lucky guess.||ˌɔn ɐn ˈænsɚ hiː mˌeɪd ɐ lˈʌki ɡˈɛs.
+sub-23/sub-23-_-NPC_gum||He is chewing bubble gum.||hiː ɪz tʃˈuːɪŋ bˈʌbəl ɡˈʌm.
+sub-23/sub-23-_-NPC_hair||Bald people do not have hair.||bˈɔːld pˈiːpəl duːnˌɑːt hæv hˈɛɹ.
+sub-23/sub-23-_-NPC_hands||I clap my hands.||aɪ klˈæp maɪ hˈændz.
+sub-23/sub-23-_-NPC_hug||Charlie wanted a kiss and a hug.||tʃˈɑːɹli wˈɔntᵻd ɐ kˈɪs ænd ɐ hˈʌɡ.
+sub-23/sub-23-_-NPC_inches||This year he has grown two inches.||ðɪs jˈɪɹ hiː hɐz ɡɹˈoʊn tˈuː ˈɪntʃᵻz.
+sub-23/sub-23-_-NPC_job||His mom quit her job.||hɪz mˈɑːm kwˈɪt hɜː dʒˈɑːb.
+sub-23/sub-23-_-NPC_kitchen||She cooks in the kitchen.||ʃiː kˈʊks ɪnðə kˈɪtʃən.
+sub-23/sub-23-_-NPC_lawn||My dad mows the lawn.||maɪ dˈæd mˈoʊz ðə lˈɔːn.
+sub-23/sub-23-_-NPC_legs||Dogs have four legs.||dˈɑːɡz hæv fˈoːɹ lˈɛɡz.
+sub-23/sub-23-_-NPC_lie||Not telling the truth is telling a lie.||nˌɑːt tˈɛlɪŋ ðə tɹˈuːθ ɪz tˈɛlɪŋ ɐ lˈaɪ.
+sub-23/sub-23-_-NPC_nests||Birds like to build nests.||bˈɜːdz lˈaɪk tə bˈɪld nˈɛsts.
+sub-23/sub-23-_-NPC_nice||The opposite of mean is nice.||ðɪ ˈɑːpəzˌɪt ʌv mˈiːn ɪz nˈaɪs.
+sub-23/sub-23-_-NPC_night||It is dark at night.||ɪɾ ɪz dˈɑːɹk æt nˈaɪt.
+sub-23/sub-23-_-NPC_nine||The number before ten is nine.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz nˈaɪn.
+sub-23/sub-23-_-NPC_out||Three strikes and you are out!||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈaʊt!
+sub-23/sub-23-_-NPC_outside||He put on his shoes to go outside.||hiː pˌʊt ˌɔn hɪz ʃˈuːz tə ɡˌoʊ aʊtsˈaɪd.
+sub-23/sub-23-_-NPC_pants||He pulled up his pants.||hiː pˈʊld ˌʌp hɪz pˈænts.
+sub-23/sub-23-_-NPC_party||He had fun at the birthday party.||hiː hæd fˈʌn æt ðə bˈɜːθdeɪ pˈɑːɹɾi.
+sub-23/sub-23-_-NPC_phone||He called Helen on the phone.||hiː kˈɔːld hˈɛlən ɔnðə fˈoʊn.
+sub-23/sub-23-_-NPC_pictures||I like to draw pictures.||aɪ lˈaɪk tə dɹˈɔː pˈɪktʃɚz.
+sub-23/sub-23-_-NPC_pipe||His grandpa smoked from a pipe.||hɪz ɡɹˈændpɑː smˈoʊkt fɹʌm ɐ pˈaɪp.
+sub-23/sub-23-_-NPC_plank||The pirate said walk the plank!||ðə pˈaɪɹət sˈɛd wˈɔːk ðə plˈæŋk!
+sub-23/sub-23-_-NPC_popped||The water balloon was so full it popped.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt pˈɑːpt.
+sub-23/sub-23-_-NPC_present||For his birthday I wrapped a present.||fɔːɹ hɪz bˈɜːθdeɪ aɪ ɹˈæpt ɐ pɹˈɛzənt.
+sub-23/sub-23-_-NPC_round||The ball is not square but round.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt ɹˈaʊnd.
+sub-23/sub-23-_-NPC_shot||The doctor gave him a flu shot.||ðə dˈɑːktɚ ɡˈeɪv hˌɪm ɐ flˈuː ʃˈɑːt.
+sub-23/sub-23-_-NPC_skunk||His dog was sprayed by a skunk.||hɪz dˈɑːɡ wʌz spɹˈeɪd baɪ ɐ skˈʌŋk.
+sub-23/sub-23-_-NPC_solve||He had a mystery to solve.||hiː hæd ɐ mˈɪstɚɹi tə sˈɑːlv.
+sub-23/sub-23-_-NPC_spider||There are eight legs on a spider.||ðɛɹˌɑːɹ ˈeɪt lˈɛɡz ˌɔn ɐ spˈaɪdɚ.
+sub-23/sub-23-_-NPC_steal||A thief likes to steal.||ɐ θˈiːf lˈaɪks tə stˈiːl.
+sub-23/sub-23-_-NPC_store||We buy toys at the toy store.||wiː bˈaɪ tˈɔɪz æt ðə tˈɔɪ stˈoːɹ.
+sub-23/sub-23-_-NPC_stove||He burned his hand on the stove.||hiː bˈɜːnd hɪz hˈænd ɔnðə stˈoʊv.
+sub-23/sub-23-_-NPC_string||His guitar had a broken string.||hɪz ɡɪtˈɑːɹ hæd ɐ bɹˈoʊkən stɹˈɪŋ.
+sub-23/sub-23-_-NPC_study||He failed the test because he didn't study.||hiː fˈeɪld ðə tˈɛst bɪkˈʌz hiː dˈɪdnt stˈʌdi.
+sub-23/sub-23-_-NPC_sun||The clouds hid the sun.||ðə klˈaʊdz hˈɪd ðə sˈʌn.
+sub-23/sub-23-_-NPC_tank||Mom filled up her gas tank.||mˈɑːm fˈɪld ˌʌp hɜː ɡˈæs tˈæŋk.
+sub-23/sub-23-_-NPC_tear||Down the sad woman's cheek came a tear.||dˌaʊn ðə sˈæd wˈʊmənz tʃˈiːk kˈeɪm ɐ tˈɪɹ.
+sub-23/sub-23-_-NPC_test||I cheated on the test.||aɪ tʃˈiːɾᵻd ɔnðə tˈɛst.
+sub-23/sub-23-_-NPC_thorns||The rose had sharp thorns.||ðə ɹˈoʊz hæd ʃˈɑːɹp θˈɔːɹnz.
+sub-23/sub-23-_-NPC_three||I count one two three.||aɪ kˈaʊnt wˈʌn tˈuː θɹˈiː.
+sub-23/sub-23-_-NPC_toilet||I flush the toilet.||aɪ flˈʌʃ ðə tˈɔɪlɪt.
+sub-23/sub-23-_-NPC_trees||A monkey climbs trees.||ɐ mˈʌŋki klˈaɪmz tɹˈiːz.
+sub-23/sub-23-_-NPC_truck||His dad drove a delivery truck.||hɪz dˈæd dɹˈoʊv ɐ dᵻlˈɪvɚɹi tɹˈʌk.
+sub-23/sub-23-_-NPC_walk||Babies crawl before they walk.||bˈeɪbiz kɹˈɔːl bᵻfˌoːɹ ðeɪ wˈɔːk.
+sub-23/sub-23-_-NPC_wear||She had no clothes to wear.||ʃiː hæd nˈoʊ klˈoʊðz tə wˈɛɹ.
+sub-23/sub-23-_-NPC_wet||The water got her hair wet.||ðə wˈɔːɾɚ ɡɑːt hɜː hˈɛɹ wˈɛt.
+sub-23/sub-23-_-NPC_whales||The biggest animals in the sea are whales.||ðə bˈɪɡɪst ˈænɪməlz ɪnðə sˈiː ɑːɹ wˈeɪlz.
+sub-23/sub-23-_-NPC_wind||My hair was blown by the wind.||maɪ hˈɛɹ wʌz blˈoʊn baɪ ðə wˈɪnd.
+sub-23/sub-23-_-NPC_wood||He chopped the wood.||hiː tʃˈɑːpt ðə wˈʊd.
+sub-23/sub-23-_-NPI_aisle(chicken)||The bride walked down the chicken.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðə tʃˈɪkɪn.
+sub-23/sub-23-_-NPI_animals(trampoline)||The sign said do not feed the trampoline.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðə tɹˈæmpəlˌiːn.
+sub-23/sub-23-_-NPI_ants(fish)||The picnic was ruined by crawling fish.||ðə pˈɪknɪk wʌz ɹˈuːɪnd baɪ kɹˈɔːlɪŋ fˈɪʃ.
+sub-23/sub-23-_-NPI_apple(balloon)||His favorite fruit was a red crisp balloon.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp bəlˈuːn.
+sub-23/sub-23-_-NPI_arm(stack)||I have two legs and two stack.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː stˈæk.
+sub-23/sub-23-_-NPI_axe(grass)||My dad chops wood with an grass.||maɪ dˈæd tʃˈɑːps wˈʊd wɪð æn ɡɹˈæs.
+sub-23/sub-23-_-NPI_bag(bell)||He puts his lunch in a paper bell.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈɛl.
+sub-23/sub-23-_-NPI_bake(milk)||The cake is in the oven to milk.||ðə kˈeɪk ɪz ɪnðɪ ˈʌvən tə mˈɪlk.
+sub-23/sub-23-_-NPI_bank(hike)||My mom puts money in the hike.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə hˈaɪk.
+sub-23/sub-23-_-NPI_barn(claw)||The farmer's animals live in the claw.||ðə fˈɑːɹmɚz ˈænɪməlz lˈɪv ɪn ðə klˈɔː.
+sub-23/sub-23-_-NPI_bat(gel)||The boy hit the ball with  a gel.||ðə bˈɔɪ hˈɪt ðə bˈɔːl wɪð ɐ dʒˈɛl.
+sub-23/sub-23-_-NPI_bath(roar)||To get clean I take a roar.||tə ɡɛt klˈiːn aɪ tˈeɪk ɐ ɹˈoːɹ.
+sub-23/sub-23-_-NPI_beat(sneeze)||The drummer keeps the sneeze.||ðə dɹˈʌmɚ kˈiːps ðə snˈiːz.
+sub-23/sub-23-_-NPI_bed(frog)||At night I sleep in my frog.||æt nˈaɪt aɪ slˈiːp ɪn maɪ fɹˈɑːɡ.
+sub-23/sub-23-_-NPI_belt(bed)||Around my pants I wear a bed.||ɚɹˈaʊnd maɪ pˈænts aɪ wˈɛɹ ɐ bˈɛd.
+sub-23/sub-23-_-NPI_bird(thorn)||Tweet goes the thorn.||twˈiːt ɡoʊz ðə θˈɔːɹn.
+sub-23/sub-23-_-NPI_blinking(belly)||She lost the staring contest by belly.||ʃiː lˈɔst ðə stˈɛɹɪŋ kˈɑːntɛst baɪ bˈɛli.
+sub-23/sub-23-_-NPI_blocks(night)||The baby liked to stack night.||ðə bˈeɪbi lˈaɪkt tə stˈæk nˈaɪt.
+sub-23/sub-23-_-NPI_bloom(school)||In spring the  flowers school.||ɪn spɹˈɪŋ ðə flˈaʊɚz skˈuːl.
+sub-23/sub-23-_-NPI_blue(arm)||The color of the sky is arm.||ðə kˈʌlɚɹ ʌvðə skˈaɪ ɪz ˈɑːɹm.
+sub-23/sub-23-_-NPI_boat(cop)||We went fishing on a cop.||wiː wɛnt fˈɪʃɪŋ ˌɔn ɐ kˈɑːp.
+sub-23/sub-23-_-NPI_bones(wind)||The Museum showed dinosaur wind.||ðə mjuːzˈiəm ʃˈoʊd dˈaɪnəsˌɔːɹ wˈɪnd.
+sub-23/sub-23-_-NPI_books(tear)||He likes to read tear.||hiː lˈaɪks tə ɹˈiːd tˈɪɹ.
+sub-23/sub-23-_-NPI_bottle(money)||The baby drinks from his money.||ðə bˈeɪbi dɹˈɪŋks fɹʌm hɪz mˈʌni.
+sub-23/sub-23-_-NPI_bow(eye)||On the present I tied a eye.||ɔnðə pɹˈɛzənt aɪ tˈaɪd ɐ ˈaɪ.
+sub-23/sub-23-_-NPI_bowl(test)||He pours cereal into a test.||hiː pˈoːɹz sˈiəɹɪəl ˌɪntʊ ɐ tˈɛst.
+sub-23/sub-23-_-NPI_brakes(cob)||The car stopped with its cob.||ðə kˈɑːɹ stˈɑːpt wɪð ɪts kˈɑːb.
+sub-23/sub-23-_-NPI_bread(sea)||She baked a loaf of sea.||ʃiː bˈeɪkt ɐ lˈoʊf ʌv sˈiː.
+sub-23/sub-23-_-NPI_bricks(leg)||My fireplace is made of red leg.||maɪ fˈaɪɚpleɪs ɪz mˌeɪd ʌv ɹˈɛd lˈɛɡ.
+sub-23/sub-23-_-NPI_bridge(steak)||Boats sail under the steak.||bˈoʊts sˈeɪl ˌʌndɚ ðə stˈeɪk.
+sub-23/sub-23-_-NPI_bright(gills)||I wear sunglasses because the sun is gills.||aɪ wˈɛɹ sˈʌŋɡlæsᵻz bɪkˈʌz ðə sˈʌn ɪz ɡˈɪlz.
+sub-23/sub-23-_-NPI_broke(pond)||He wore a cast because his arm pond.||hiː wˈoːɹ ɐ kˈæst bɪkˈʌz hɪz ˈɑːɹm pˈɑːnd.
+sub-23/sub-23-_-NPI_broom(bus)||I sweep the floor with a bus.||aɪ swˈiːp ðə flˈoːɹ wɪð ɐ bˈʌs.
+sub-23/sub-23-_-NPI_brown(job)||A tree trunk is colored job.||ɐ tɹˈiː tɹˈʌŋk ɪz kˈʌlɚd dʒˈɑːb.
+sub-23/sub-23-_-NPI_bruise(rain)||I hit my arm and got a rain.||aɪ hˈɪt maɪ ˈɑːɹm ænd ɡɑːt ɐ ɹˈeɪn.
+sub-23/sub-23-_-NPI_bulb(farm)||Tom replaced the light farm.||tˈɑːm ɹᵻplˈeɪst ðə lˈaɪt fˈɑːɹm.
+sub-23/sub-23-_-NPI_bus(egg)||To school I ride the yellow egg.||tə skˈuːl aɪ ɹˈaɪd ðə jˈɛloʊ ˈɛɡ.
+sub-23/sub-23-_-NPI_bushes(oven)||Outside a man trimmed the oven.||aʊtsˈaɪd ɐ mˈæn tɹˈɪmd ðɪ ˈʌvən.
+sub-23/sub-23-_-NPI_button(hotdog)||On the remote he clicked the hotdog.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə hˈɑːtdɑːɡ.
+sub-23/sub-23-_-NPI_cake(clue)||He baked a birthday clue.||hiː bˈeɪkt ɐ bˈɜːθdeɪ klˈuː.
+sub-23/sub-23-_-NPI_camping(bacon)||We bring a tent to go bacon.||wiː bɹˈɪŋ ɐ tˈɛnt tə ɡˌoʊ bˈeɪkən.
+sub-23/sub-23-_-NPI_candles(planet)||She blew out the birthday planet.||ʃiː blˈuː ˈaʊt ðə bˈɜːθdeɪ plˈænɪt.
+sub-23/sub-23-_-NPI_cane(fin)||The old man walked with a fin.||ðɪ ˈoʊld mˈæn wˈɔːkt wɪð ɐ fˈɪn.
+sub-23/sub-23-_-NPI_cap(chore)||He screwed off the bottle chore.||hiː skɹˈuːd ˈɔf ðə bˈɑːɾəl tʃˈoːɹ.
+sub-23/sub-23-_-NPI_cape(pole)||Superman wears a red pole.||sˈuːpɚmˌæn wˈɛɹz ɐ ɹˈɛd pˈoʊl.
+sub-23/sub-23-_-NPI_car(chest)||He puts gas in his chest.||hiː pˌʊts ɡˈæs ɪn hɪz tʃˈɛst.
+sub-23/sub-23-_-NPI_cart(score)||At the store I pushed the score.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə skˈoːɹ.
+sub-23/sub-23-_-NPI_castle(doctor)||A princess lives in a doctor.||ɐ pɹˈɪnsɛs lˈaɪvz ɪn ɐ dˈɑːktɚ.
+sub-23/sub-23-_-NPI_cat(spray)||Meow goes the spray.||mɪˈaʊ ɡoʊz ðə spɹˈeɪ.
+sub-23/sub-23-_-NPI_catch(road)||I throw and you road.||aɪ θɹˈoʊ ænd juː ɹˈoʊd.
+sub-23/sub-23-_-NPI_caves(string)||Bats live in string.||bˈæts lˈɪv ɪn stɹˈɪŋ.
+sub-23/sub-23-_-NPI_chalk(fat)||On the sidewalk I draw with  fat.||ɔnðə sˈaɪdwɔːk aɪ dɹˈɔː wɪð fˈæt.
+sub-23/sub-23-_-NPI_cheese(clock)||Her favorite food is mac and clock.||hɜː fˈeɪvɚɹᵻt fˈuːd ɪz mˈæk ænd klˈɑːk.
+sub-23/sub-23-_-NPI_chest(sock)||My heart was pounding in my sock.||maɪ hˈɑːɹt wʌz pˈaʊndɪŋ ɪn maɪ sˈɑːk.
+sub-23/sub-23-_-NPI_chick(bruise)||A baby chicken is a bruise.||ɐ bˈeɪbi tʃˈɪkɪn ɪz ɐ bɹˈuːz.
+sub-23/sub-23-_-NPI_chores(cave)||My mom makes me do household cave.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld kˈeɪv.
+sub-23/sub-23-_-NPI_claws(floor)||The cat has sharp floor.||ðə kˈæt hɐz ʃˈɑːɹp flˈoːɹ.
+sub-23/sub-23-_-NPI_clay(gas)||In art class we mold gas.||ɪn ˈɑːɹt klˈæs wiː mˈoʊld ɡˈæs.
+sub-23/sub-23-_-NPI_clean(cheek)||I keep my room cheek.||aɪ kˈiːp maɪ ɹˈuːm tʃˈiːk.
+sub-23/sub-23-_-NPI_clock(tree)||Tick tock goes the tree.||tˈɪk tˈɑːk ɡoʊz ðə tɹˈiː.
+sub-23/sub-23-_-NPI_clothes(bite)||My parents fold my bite.||maɪ pˈɛɹənts fˈoʊld maɪ bˈaɪt.
+sub-23/sub-23-_-NPI_clouds(dirt)||In the sky are white fluffy dirt.||ɪnðə skˈaɪ ɑːɹ wˈaɪt flˈʌfi dˈɜːt.
+sub-23/sub-23-_-NPI_clown(dice)||I laughed at the circus dice.||aɪ lˈæft æt ðə sˈɜːkəs dˈaɪs.
+sub-23/sub-23-_-NPI_clues(year)||The detectives found many year.||ðə dɪtˈɛktɪvz fˈaʊnd mˈɛni jˈɪɹ.
+sub-23/sub-23-_-NPI_coach(goose)||I was taught by my soccer goose.||aɪ wʌz tˈɔːt baɪ maɪ sˈɑːkɚ ɡˈuːs.
+sub-23/sub-23-_-NPI_coat(loaf)||I put on my rain loaf.||aɪ pˌʊt ˌɔn maɪ ɹˈeɪn lˈoʊf.
+sub-23/sub-23-_-NPI_cob(lie)||She eats corn on the lie.||ʃiː ˈiːts kˈɔːɹn ɔnðə lˈaɪ.
+sub-23/sub-23-_-NPI_cold(bib)||Winter is very bib.||wˈɪntɚɹ ɪz vˈɛɹi bˈɪb.
+sub-23/sub-23-_-NPI_cone(hug)||He eats his ice cream on a hug.||hiː ˈiːts hɪz ˈaɪs kɹˈiːm ˌɔn ɐ hˈʌɡ.
+sub-23/sub-23-_-NPI_cop(cake)||He was pulled over by a cake.||hiː wʌz pˈʊld ˌoʊvɚ baɪ ɐ kˈeɪk.
+sub-23/sub-23-_-NPI_couch(bulb)||I watch tv and sit on the bulb.||aɪ wˈɑːtʃ tˌiːvˈiː ænd sˈɪt ɔnðə bˈʌlb.
+sub-23/sub-23-_-NPI_cough(friend)||My cold made me sneeze and friend.||maɪ kˈoʊld mˌeɪd mˌiː snˈiːz ænd fɹˈɛnd.
+sub-23/sub-23-_-NPI_cow(axe)||Farmers milk the axe.||fˈɑːɹmɚz mˈɪlk ðɪ ˈæks.
+sub-23/sub-23-_-NPI_crafts(tank)||I like arts and tank.||aɪ lˈaɪk ˈɑːɹts ænd tˈæŋk.
+sub-23/sub-23-_-NPI_cream(couch)||I spray whipped couch.||aɪ spɹˈeɪ wˈɪpt kˈaʊtʃ.
+sub-23/sub-23-_-NPI_cribs(shot)||Babies sleep in shot.||bˈeɪbiz slˈiːp ɪn ʃˈɑːt.
+sub-23/sub-23-_-NPI_crown(bench)||A king wears a bench.||ɐ kˈɪŋ wˈɛɹz ɐ bˈɛntʃ.
+sub-23/sub-23-_-NPI_crust(foot)||His mom makes her own pie foot.||hɪz mˈɑːm mˌeɪks hɜːɹ ˈoʊn pˈaɪ fˈʊt.
+sub-23/sub-23-_-NPI_dancers(pirate)||Ballerinas are great pirate.||bˌælɚɹˈiːnəz ɑːɹ ɡɹˈeɪt pˈaɪɹət.
+sub-23/sub-23-_-NPI_deep(bone)||The pool was six feet bone.||ðə pˈuːl wʌz sˈɪks fˈiːt bˈoʊn.
+sub-23/sub-23-_-NPI_desk(ice)||In school I sit at a ice.||ɪn skˈuːl aɪ sˈɪt æɾə ˈaɪs.
+sub-23/sub-23-_-NPI_dip(cage)||I love chips and cage.||aɪ lˈʌv tʃˈɪps ænd kˈeɪdʒ.
+sub-23/sub-23-_-NPI_dirt(screw)||Worms crawl in the screw.||wˈɜːmz kɹˈɔːl ɪnðə skɹˈuː.
+sub-23/sub-23-_-NPI_dog(chalk)||Bark says the chalk.||bˈɑːɹk sˈɛz ðə tʃˈɔːk.
+sub-23/sub-23-_-NPI_dolls(worm)||My sister plays with Barbie worm.||maɪ sˈɪstɚ plˈeɪz wɪð bˈɑːɹbi wˈɜːm.
+sub-23/sub-23-_-NPI_door(smoke)||He shut the smoke.||hiː ʃˈʌt ðə smˈoʊk.
+sub-23/sub-23-_-NPI_dream(lawn)||She woke up after a bad lawn.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd lˈɔːn.
+sub-23/sub-23-_-NPI_dress(fun)||The bride wears a white fun.||ðə bɹˈaɪd wˈɛɹz ɐ wˈaɪt fˈʌn.
+sub-23/sub-23-_-NPI_drill(bowl)||At school there was a fire bowl.||æt skˈuːl ðɛɹwˌʌz ɐ fˈaɪɚ bˈoʊl.
+sub-23/sub-23-_-NPI_duck(bank)||Quack goes the bank.||kwˈæk ɡoʊz ðə bˈæŋk.
+sub-23/sub-23-_-NPI_dust(cook)||The old table was covered in cook.||ðɪ ˈoʊld tˈeɪbəl wʌz kˈʌvɚd ɪn kˈʊk.
+sub-23/sub-23-_-NPI_ears(bee)||I hear with my bee.||aɪ hˈɪɹ wɪð maɪ bˈiː.
+sub-23/sub-23-_-NPI_earth(rose)||We live on planet rose.||wiː lˈɪv ˌɔn plˈænɪt ɹˈoʊz.
+sub-23/sub-23-_-NPI_eats(ball)||The baby wears a bib when he ball.||ðə bˈeɪbi wˈɛɹz ɐ bˈɪb wɛn hiː bˈɔːl.
+sub-23/sub-23-_-NPI_eyes(hip)||I see with my hip.||aɪ sˈiː wɪð maɪ hˈɪp.
+sub-23/sub-23-_-NPI_fake(crust)||The diamond was not real it was crust.||ðə dˈaɪəmənd wʌz nˌɑːt ɹˈiːəl ɪt wʌz kɹˈʌst.
+sub-23/sub-23-_-NPI_farm(bird)||Cows live on a bird.||kˈaʊz lˈaɪv ˌɔn ɐ bˈɜːd.
+sub-23/sub-23-_-NPI_fast(thief)||Cheetahs  are really thief.||tʃˈiːɾəz ɑːɹ ɹˈiəli θˈiːf.
+sub-23/sub-23-_-NPI_fat(glass)||Goats are skinny and pigs are glass.||ɡˈoʊts ɑːɹ skˈɪni ænd pˈɪɡz ɑːɹ ɡlˈæs.
+sub-23/sub-23-_-NPI_fear(walk)||The brave man had no walk.||ðə bɹˈeɪv mˈæn hæd nˈoʊ wˈɔːk.
+sub-23/sub-23-_-NPI_fight(mouse)||The angry boys got in a mouse.||ðɪ ˈæŋɡɹi bˈɔɪz ɡɑːt ɪn ɐ mˈaʊs.
+sub-23/sub-23-_-NPI_fin(desk)||Sharks have a tail desk.||ʃˈɑːɹks hæv ɐ tˈeɪl dˈɛsk.
+sub-23/sub-23-_-NPI_fingers(kitchen)||On one hand I have five kitchen.||ˌɔn wˈʌn hˈænd aɪ hæv fˈaɪv kˈɪtʃən.
+sub-23/sub-23-_-NPI_fish(cry)||On the boat my dad caught a cry.||ɔnðə bˈoʊt maɪ dˈæd kˈɔːt ɐ kɹˈaɪ.
+sub-23/sub-23-_-NPI_fist(bath)||I punched the bag with my bath.||aɪ pˈʌntʃt ðə bˈæɡ wɪð maɪ bˈæθ.
+sub-23/sub-23-_-NPI_fixed(dog)||The toy broke and needed to be dog.||ðə tˈɔɪ bɹˈoʊk ænd nˈiːdᵻd təbi dˈɑːɡ.
+sub-23/sub-23-_-NPI_flag(touch)||He waves an American touch.||hiː wˈeɪvz ɐn ɐmˈɛɹɪkən tˈʌtʃ.
+sub-23/sub-23-_-NPI_flat(cow)||The earth is round not cow.||ðɪ ˈɜːθ ɪz ɹˈaʊnd nˌɑːt kˈaʊ.
+sub-23/sub-23-_-NPI_flip(dark)||On the trampoline he did a dark.||ɔnðə tɹˈæmpəlˌiːn hiː dˈɪd ɐ dˈɑːɹk.
+sub-23/sub-23-_-NPI_flop(toy)||At the pool he did a belly toy.||æt ðə pˈuːl hiː dˈɪd ɐ bˈɛli tˈɔɪ.
+sub-23/sub-23-_-NPI_fly(edge)||She swatted the edge.||ʃiː swˈɑːɾᵻd ðɪ ˈɛdʒ.
+sub-23/sub-23-_-NPI_foot(shout)||I put the sock on my shout.||aɪ pˌʊt ðə sˈɑːk ˌɔn maɪ ʃˈaʊt.
+sub-23/sub-23-_-NPI_freeze(sun)||In the winter the pond will sun.||ɪnðə wˈɪntɚ ðə pˈɑːnd wɪl sˈʌn.
+sub-23/sub-23-_-NPI_fridge(pig)||The Jell-O had to chill in the pig.||ðə dʒˈɛlˈoʊ hædtə tʃˈɪl ɪnðə pˈɪɡ.
+sub-23/sub-23-_-NPI_friend(pound)||I play with my best pound.||aɪ plˈeɪ wɪð maɪ bˈɛst pˈaʊnd.
+sub-23/sub-23-_-NPI_frog(glove)||Ribbit goes the glove.||ɹˈɪbɪt ɡoʊz ðə ɡlˈʌv.
+sub-23/sub-23-_-NPI_fruit(tent)||He likes to eat fresh tent.||hiː lˈaɪks tʊ ˈiːt fɹˈɛʃ tˈɛnt.
+sub-23/sub-23-_-NPI_fur(dad)||Cats have soft dad.||kˈæts hæv sˈɔft dˈæd.
+sub-23/sub-23-_-NPI_game(coal)||His dad watches the football coal.||hɪz dˈæd wˈɑːtʃᵻz ðə fˈʊtbɔːl kˈoʊl.
+sub-23/sub-23-_-NPI_ghosts(strike)||The house was haunted by strike.||ðə hˈaʊs wʌz hˈɔːntᵻd baɪ stɹˈaɪk.
+sub-23/sub-23-_-NPI_gills(doll)||Fish breathe through doll.||fˈɪʃ bɹˈiːð θɹuː dˈɑːl.
+sub-23/sub-23-_-NPI_glass(shoe)||Windows are made of shoe.||wˈɪndoʊz ɑːɹ mˌeɪd ʌv ʃˈuː.
+sub-23/sub-23-_-NPI_gloves(car)||On his hands are a pair of car.||ˌɔn hɪz hˈændz ɑːɹ ɐ pˈɛɹ ʌv kˈɑːɹ.
+sub-23/sub-23-_-NPI_glue(cliff)||The paper sticks together like cliff.||ðə pˈeɪpɚ stˈɪks təɡˌɛðɚ lˈaɪk klˈɪf.
+sub-23/sub-23-_-NPI_goal(hair)||The soccer team scored a hair.||ðə sˈɑːkɚ tˈiːm skˈoːɹd ɐ hˈɛɹ.
+sub-23/sub-23-_-NPI_goat(bread)||Bah says the sheep and bread.||bˈɑː sˈɛz ðə ʃˈiːp ænd bɹˈɛd.
+sub-23/sub-23-_-NPI_gold(fridge)||Wedding rings are made of fridge.||wˈɛdɪŋ ɹˈɪŋz ɑːɹ mˌeɪd ʌv fɹˈɪdʒ.
+sub-23/sub-23-_-NPI_gone(feet)||The cookies were eaten until they were feet.||ðə kˈʊkiz wɜːɹ ˈiːʔn̩ ʌntˈɪl ðeɪ wɜː fˈiːt.
+sub-23/sub-23-_-NPI_goose(pipe)||We played duck duck pipe.||wiː plˈeɪd dˈʌk dˈʌk pˈaɪp.
+sub-23/sub-23-_-NPI_grade(grill)||In school he is in first grill.||ɪn skˈuːl hiː ɪz ɪn fˈɜːst ɡɹˈɪl.
+sub-23/sub-23-_-NPI_grapes(man)||Raisins are dried man.||ɹˈeɪzənz ɑːɹ dɹˈaɪd mˈæn.
+sub-23/sub-23-_-NPI_gray(bald)||The rainy sky was colored bald.||ðə ɹˈeɪni skˈaɪ wʌz kˈʌlɚd bˈɔːld.
+sub-23/sub-23-_-NPI_green(lock)||The grass is colored lock.||ðə ɡɹˈæs ɪz kˈʌlɚd lˈɑːk.
+sub-23/sub-23-_-NPI_grill(heart)||He cooked hotdogs outside on the heart.||hiː kˈʊkt hˈɑːtdɑːɡz aʊtsˈaɪd ɔnðə hˈɑːɹt.
+sub-23/sub-23-_-NPI_guess(grape)||On an answer he made a lucky grape.||ˌɔn ɐn ˈænsɚ hiː mˌeɪd ɐ lˈʌki ɡɹˈeɪp.
+sub-23/sub-23-_-NPI_gum(coat)||He is chewing bubble coat.||hiː ɪz tʃˈuːɪŋ bˈʌbəl kˈoʊt.
+sub-23/sub-23-_-NPI_hair(nest)||Bald people do not have nest.||bˈɔːld pˈiːpəl duːnˌɑːt hæv nˈɛst.
+sub-23/sub-23-_-NPI_hands(king)||I clap my king.||aɪ klˈæp maɪ kˈɪŋ.
+sub-23/sub-23-_-NPI_hug(fear)||Charlie wanted a kiss and a fear.||tʃˈɑːɹli wˈɔntᵻd ɐ kˈɪs ænd ɐ fˈɪɹ.
+sub-23/sub-23-_-NPI_inches(cookie)||This year he has grown two cookie.||ðɪs jˈɪɹ hiː hɐz ɡɹˈoʊn tˈuː kˈʊki.
+sub-23/sub-23-_-NPI_job(pants)||His mom quit her pants.||hɪz mˈɑːm kwˈɪt hɜː pˈænts.
+sub-23/sub-23-_-NPI_kitchen(baby)||She cooks in the baby.||ʃiː kˈʊks ɪnðə bˈeɪbi.
+sub-23/sub-23-_-NPI_lawn(weight)||My dad mows the weight.||maɪ dˈæd mˈoʊz ðə wˈeɪt.
+sub-23/sub-23-_-NPI_legs(barn)||Dogs have four barn.||dˈɑːɡz hæv fˈoːɹ bˈɑːɹn.
+sub-23/sub-23-_-NPI_lie(cup)||Not telling the truth is telling a cup.||nˌɑːt tˈɛlɪŋ ðə tɹˈuːθ ɪz tˈɛlɪŋ ɐ kˈʌp.
+sub-23/sub-23-_-NPI_mouse(store)||The cat chased the store.||ðə kˈæt tʃˈeɪst ðə stˈoːɹ.
+sub-23/sub-23-_-NPI_nests(drill)||Birds like to build drill.||bˈɜːdz lˈaɪk tə bˈɪld dɹˈɪl.
+sub-23/sub-23-_-NPI_nice(gum)||The opposite of mean is gum.||ðɪ ˈɑːpəzˌɪt ʌv mˈiːn ɪz ɡˈʌm.
+sub-23/sub-23-_-NPI_outside(apple)||He put on his shoes to go apple.||hiː pˌʊt ˌɔn hɪz ʃˈuːz tə ɡˌoʊ ˈæpəl.
+sub-23/sub-23-_-NPI_pants(woods)||He pulled up his woods.||hiː pˈʊld ˌʌp hɪz wˈʊdz.
+sub-23/sub-23-_-NPI_party(sidewalk)||He had fun at the birthday sidewalk.||hiː hæd fˈʌn æt ðə bˈɜːθdeɪ sˈaɪdwɔːk.
+sub-23/sub-23-_-NPI_phone(snake)||He called Helen on the snake.||hiː kˈɔːld hˈɛlən ɔnðə snˈeɪk.
+sub-23/sub-23-_-NPI_pictures(contest)||I like to draw contest.||aɪ lˈaɪk tə dɹˈɔː kˈɑːntɛst.
+sub-23/sub-23-_-NPI_pipe(phone)||His grandpa smoked from a phone.||hɪz ɡɹˈændpɑː smˈoʊkt fɹʌm ɐ fˈoʊn.
+sub-23/sub-23-_-NPI_present(sister)||For his birthday I wrapped a sister.||fɔːɹ hɪz bˈɜːθdeɪ aɪ ɹˈæpt ɐ sˈɪstɚ.
+sub-23/sub-23-_-NPI_shot(crown)||The doctor gave him a flu crown.||ðə dˈɑːktɚ ɡˈeɪv hˌɪm ɐ flˈuː kɹˈaʊn.
+sub-23/sub-23-_-NPI_skunk(broom)||His dog was sprayed by a broom.||hɪz dˈɑːɡ wʌz spɹˈeɪd baɪ ɐ bɹˈuːm.
+sub-23/sub-23-_-NPI_snake(play)||Hiss goes the play.||hˈɪs ɡoʊz ðə plˈeɪ.
+sub-23/sub-23-_-NPI_solve(cloud)||He had a mystery to cloud.||hiː hæd ɐ mˈɪstɚɹi tə klˈaʊd.
+sub-23/sub-23-_-NPI_spider(summer)||There are eight legs on a summer.||ðɛɹˌɑːɹ ˈeɪt lˈɛɡz ˌɔn ɐ sˈʌmɚ.
+sub-23/sub-23-_-NPI_steal(earth)||A thief likes to earth.||ɐ θˈiːf lˈaɪks tʊ ˈɜːθ.
+sub-23/sub-23-_-NPI_store(stick)||We buy toys at the toy stick.||wiː bˈaɪ tˈɔɪz æt ðə tˈɔɪ stˈɪk.
+sub-23/sub-23-_-NPI_stove(kid)||He burned his hand on the kid.||hiː bˈɜːnd hɪz hˈænd ɔnðə kˈɪd.
+sub-23/sub-23-_-NPI_string(chick)||His guitar had a broken chick.||hɪz ɡɪtˈɑːɹ hæd ɐ bɹˈoʊkən tʃˈɪk.
+sub-23/sub-23-_-NPI_study(princess)||He failed the test because he didn't princess.||hiː fˈeɪld ðə tˈɛst bɪkˈʌz hiː dˈɪdnt pɹˈɪnsɛs.
+sub-23/sub-23-_-NPI_sun(lunch)||The clouds hid the lunch.||ðə klˈaʊdz hˈɪd ðə lˈʌntʃ.
+sub-23/sub-23-_-NPI_tank(truth)||Mom filled up her gas truth.||mˈɑːm fˈɪld ˌʌp hɜː ɡˈæs tɹˈuːθ.
+sub-23/sub-23-_-NPI_tear(corn)||Down the sad woman's cheek came a corn.||dˌaʊn ðə sˈæd wˈʊmənz tʃˈiːk kˈeɪm ɐ kˈɔːɹn.
+sub-23/sub-23-_-NPI_test(dust)||I cheated on the dust.||aɪ tʃˈiːɾᵻd ɔnðə dˈʌst.
+sub-23/sub-23-_-NPI_thorns(house)||The rose had sharp house.||ðə ɹˈoʊz hæd ʃˈɑːɹp hˈaʊs.
+sub-23/sub-23-_-NPI_three(boy)||I count one two boy.||aɪ kˈaʊnt wˈʌn tˈuː bˈɔɪ.
+sub-23/sub-23-_-NPI_toilet(window)||I flush the window.||aɪ flˈʌʃ ðə wˈɪndoʊ.
+sub-23/sub-23-_-NPI_trees(book)||A monkey climbs book.||ɐ mˈʌŋki klˈaɪmz bˈʊk.
+sub-23/sub-23-_-NPI_truck(cap)||His dad drove a delivery break.||hɪz dˈæd dɹˈoʊv ɐ dᵻlˈɪvɚɹi bɹˈeɪk.
+sub-23/sub-23-_-NPI_walk(class)||Babies crawl before they class.||bˈeɪbiz kɹˈɔːl bᵻfˌoːɹ ðeɪ klˈæs.
+sub-23/sub-23-_-NPI_wear(chief)||She had no clothes to chief.||ʃiː hæd nˈoʊ klˈoʊðz tə tʃˈiːf.
+sub-23/sub-23-_-NPI_wet(whale)||The water got her hair whale.||ðə wˈɔːɾɚ ɡɑːt hɜː hˈɛɹ wˈeɪl.
+sub-23/sub-23-_-NPI_whales(dress)||The biggest animals in the sea are dress.||ðə bˈɪɡɪst ˈænɪməlz ɪnðə sˈiː ɑːɹ dɹˈɛs.
+sub-23/sub-23-_-NPI_wind(cheese)||My hair was blown by the cheese.||maɪ hˈɛɹ wʌz blˈoʊn baɪ ðə tʃˈiːz.
+sub-23/sub-23-_-NPI_wood(cough)||He chopped the cough.||hiː tʃˈɑːpt ðə kˈɔf.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_beard||Santa has a big white beard.||sˈæntə hɐz ɐ bˈɪɡ wˈaɪt bˈɪɹd.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_bee||I was stung by a buzzing bee.||aɪ wʌz stˈʌŋ baɪ ɐ bˈʌzɪŋ bˈiː.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_bench||He liked to sit on the park bench.||hiː lˈaɪkt tə sˈɪt ɔnðə pˈɑːɹk bˈɛntʃ.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_chain||Prisoners walk with a ball and chain.||pɹˈɪzənɚz wˈɔːk wɪð ɐ bˈɔːl ænd tʃˈeɪn.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_cleats||For soccer you wear cleats.||fɔːɹ sˈɑːkɚ juː wˈɛɹ klˈiːts.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_coal||Santa gives bad kids coal.||sˈæntə ɡˈɪvz bˈæd kˈɪdz kˈoʊl.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_cut||I got a hair cut.||aɪ ɡɑːt ɐ hˈɛɹ kˈʌt.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_cute||She thinks all baby animals are cute.||ʃiː θˈɪŋks ˈɔːl bˈeɪbi ˈænɪməlz ɑːɹ kjˈuːt.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_eggs||For breakfast she has bacon and eggs.||fɔːɹ bɹˈɛkfəst ʃiː hɐz bˈeɪkən ænd ˈɛɡz.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_found||My hat was in the lost and found.||maɪ hˈæt wʌz ɪnðə lˈɔst ænd fˈaʊnd.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_fried||He likes his chicken deep fried.||hiː lˈaɪks hɪz tʃˈɪkɪn dˈiːp fɹˈaɪd.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_holes||My dog digs holes.||maɪ dˈɑːɡ dˈɪɡz hˈoʊlz.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_pole||Santa lives at the north pole.||sˈæntə lˈaɪvz æt ðə nˈɔːɹθ pˈoʊl.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_rings||Before school starts the bell rings.||bᵻfˌoːɹ skˈuːl stˈɑːɹts ðə bˈɛl ɹˈɪŋz.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_roar||The lion says roar.||ðə lˈaɪən sˈɛz ɹˈoːɹ.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_school||Jeff is too cool for school.||dʒˈɛf ɪz tˈuː kˈuːl fɔːɹ skˈuːl.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_warm||The water was luke warm.||ðə wˈɔːɾɚ wʌz lˈuːk wˈɔːɹm.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_water||The boat floats on the water.||ðə bˈoʊt flˈoʊts ɔnðə wˈɔːɾɚ.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_weight||The girl gained weight.||ðə ɡˈɜːl ɡˈeɪnd wˈeɪt.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_beard(catch)||Santa has a big white catch.||sˈæntə hɐz ɐ bˈɪɡ wˈaɪt kˈætʃ.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_bee(burn)||I was stung by a buzzing burn.||aɪ wʌz stˈʌŋ baɪ ɐ bˈʌzɪŋ bˈɜːn.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_bench(grade)||He liked to sit on the park grade.||hiː lˈaɪkt tə sˈɪt ɔnðə pˈɑːɹk ɡɹˈeɪd.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_chain(flood)||Prisoners walk with a ball and flood.||pɹˈɪzənɚz wˈɔːk wɪð ɐ bˈɔːl ænd flˈʌd.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_cleats(wood)||For soccer you wear wood.||fɔːɹ sˈɑːkɚ juː wˈɛɹ wˈʊd.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_coal(chain)||Santa gives bad kids chain.||sˈæntə ɡˈɪvz bˈæd kˈɪdz tʃˈeɪn.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_cut(boat)||I got a hair boat.||aɪ ɡɑːt ɐ hˈɛɹ bˈoʊt.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_cute(fence)||She thinks all baby animals are fence.||ʃiː θˈɪŋks ˈɔːl bˈeɪbi ˈænɪməlz ɑːɹ fˈɛns.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_eggs(brake)||For breakfast she has bacon and brake.||fɔːɹ bɹˈɛkfəst ʃiː hɐz bˈeɪkən ænd bɹˈeɪk.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_found(goat)||My hat was in the lost and goat.||maɪ hˈæt wʌz ɪnðə lˈɔst ænd ɡˈoʊt.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_fried(mom)||He likes his chicken deep mom.||hiː lˈaɪks hɪz tʃˈɪkɪn dˈiːp mˈɑːm.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_holes(spring)||My dog digs spring.||maɪ dˈɑːɡ dˈɪɡz spɹˈɪŋ.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_live(truck)||The woods are where bears truck.||ðə wˈʊdz ɑːɹ wˌɛɹ bˈɛɹz tɹˈʌk.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_pole(ring)||Santa lives at the north ring.||sˈæntə lˈaɪvz æt ðə nˈɔːɹθ ɹˈɪŋ.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_rings(style)||Before school starts the bell style.||bᵻfˌoːɹ skˈuːl stˈɑːɹts ðə bˈɛl stˈaɪl.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_roar(mold)||The lion says mold.||ðə lˈaɪən sˈɛz mˈoʊld.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_school(cut)||Jeff is too cool for cut.||dʒˈɛf ɪz tˈuː kˈuːl fɔːɹ kˈʌt.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_warm(skunk)||The water was luke skunk.||ðə wˈɔːɾɚ wʌz lˈuːk skˈʌŋk.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_water(fur)||The boat floats on the fur.||ðə bˈoʊt flˈoʊts ɔnðə fˈɜː.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_weight(sky)||The girl gained sky.||ðə ɡˈɜːl ɡˈeɪnd skˈaɪ.
+sub-24/sub-24-_-NPC_ants||The picnic was ruined by crawling ants.||ðə pˈɪknɪk wʌz ɹˈuːɪnd baɪ kɹˈɔːlɪŋ ˈænts.
+sub-24/sub-24-_-NPC_axe||My dad chops wood with an axe.||maɪ dˈæd tʃˈɑːps wˈʊd wɪð ɐn ˈæks.
+sub-24/sub-24-_-NPC_bake||The cake is in the oven to bake.||ðə kˈeɪk ɪz ɪnðɪ ˈʌvən tə bˈeɪk.
+sub-24/sub-24-_-NPC_barn||The farmer's animals live in the barn.||ðə fˈɑːɹmɚz ˈænɪməlz lˈɪv ɪn ðə bˈɑːɹn.
+sub-24/sub-24-_-NPC_bat||The boy hit the ball with  a bat.||ðə bˈɔɪ hˈɪt ðə bˈɔːl wɪð ɐ bˈæt.
+sub-24/sub-24-_-NPC_bath||To get clean I take a bath.||tə ɡɛt klˈiːn aɪ tˈeɪk ɐ bˈæθ.
+sub-24/sub-24-_-NPC_bear||The woods had a big brown scary bear.||ðə wˈʊdz hæd ɐ bˈɪɡ bɹˈaʊn skˈɛɹi bˈɛɹ.
+sub-24/sub-24-_-NPC_beat||The drummer keeps the beat.||ðə dɹˈʌmɚ kˈiːps ðə bˈiːt.
+sub-24/sub-24-_-NPC_bed||At night I sleep in my bed.||æt nˈaɪt aɪ slˈiːp ɪn maɪ bˈɛd.
+sub-24/sub-24-_-NPC_belt||Around my pants I wear a belt.||ɚɹˈaʊnd maɪ pˈænts aɪ wˈɛɹ ɐ bˈɛlt.
+sub-24/sub-24-_-NPC_bird||Tweet goes the bird.||twˈiːt ɡoʊz ðə bˈɜːd.
+sub-24/sub-24-_-NPC_bite||He had an itchy bug bite.||hiː hæd ɐn ˈɪtʃi bˈʌɡ bˈaɪt.
+sub-24/sub-24-_-NPC_blinking||She lost the staring contest by blinking.||ʃiː lˈɔst ðə stˈɛɹɪŋ kˈɑːntɛst baɪ blˈɪŋkɪŋ.
+sub-24/sub-24-_-NPC_blocks||The baby liked to stack blocks.||ðə bˈeɪbi lˈaɪkt tə stˈæk blˈɑːks.
+sub-24/sub-24-_-NPC_bloom||In spring the  flowers bloom.||ɪn spɹˈɪŋ ðə flˈaʊɚz blˈuːm.
+sub-24/sub-24-_-NPC_blue||The color of the sky is blue.||ðə kˈʌlɚɹ ʌvðə skˈaɪ ɪz blˈuː.
+sub-24/sub-24-_-NPC_boat||We went fishing on a boat.||wiː wɛnt fˈɪʃɪŋ ˌɔn ɐ bˈoʊt.
+sub-24/sub-24-_-NPC_bones||The Museum showed dinosaur bones.||ðə mjuːzˈiəm ʃˈoʊd dˈaɪnəsˌɔːɹ bˈoʊnz.
+sub-24/sub-24-_-NPC_books||He likes to read books.||hiː lˈaɪks tə ɹˈiːd bˈʊks.
+sub-24/sub-24-_-NPC_bottle||The baby drinks from his bottle.||ðə bˈeɪbi dɹˈɪŋks fɹʌm hɪz bˈɑːɾəl.
+sub-24/sub-24-_-NPC_bow||On the present I tied a bow.||ɔnðə pɹˈɛzənt aɪ tˈaɪd ɐ bˈoʊ.
+sub-24/sub-24-_-NPC_bowl||He pours cereal into a bowl.||hiː pˈoːɹz sˈiəɹɪəl ˌɪntʊ ɐ bˈoʊl.
+sub-24/sub-24-_-NPC_brakes||The car stopped with its brakes.||ðə kˈɑːɹ stˈɑːpt wɪð ɪts bɹˈeɪks.
+sub-24/sub-24-_-NPC_bread||She baked a loaf of bread.||ʃiː bˈeɪkt ɐ lˈoʊf ʌv bɹˈɛd.
+sub-24/sub-24-_-NPC_bricks||My fireplace is made of red bricks.||maɪ fˈaɪɚpleɪs ɪz mˌeɪd ʌv ɹˈɛd bɹˈɪks.
+sub-24/sub-24-_-NPC_bridge||Boats sail under the bridge.||bˈoʊts sˈeɪl ˌʌndɚ ðə bɹˈɪdʒ.
+sub-24/sub-24-_-NPC_bright||I wear sunglasses because the sun is bright.||aɪ wˈɛɹ sˈʌŋɡlæsᵻz bɪkˈʌz ðə sˈʌn ɪz bɹˈaɪt.
+sub-24/sub-24-_-NPC_broke||He wore a cast because his arm broke.||hiː wˈoːɹ ɐ kˈæst bɪkˈʌz hɪz ˈɑːɹm bɹˈoʊk.
+sub-24/sub-24-_-NPC_broom||I sweep the floor with a broom.||aɪ swˈiːp ðə flˈoːɹ wɪð ɐ bɹˈuːm.
+sub-24/sub-24-_-NPC_brown||A tree trunk is colored brown.||ɐ tɹˈiː tɹˈʌŋk ɪz kˈʌlɚd bɹˈaʊn.
+sub-24/sub-24-_-NPC_bruise||I hit my arm and got a bruise.||aɪ hˈɪt maɪ ˈɑːɹm ænd ɡɑːt ɐ bɹˈuːz.
+sub-24/sub-24-_-NPC_bulb||Tom replaced the light bulb.||tˈɑːm ɹᵻplˈeɪst ðə lˈaɪt bˈʌlb.
+sub-24/sub-24-_-NPC_bus||To school I ride the yellow bus.||tə skˈuːl aɪ ɹˈaɪd ðə jˈɛloʊ bˈʌs.
+sub-24/sub-24-_-NPC_bushes||Outside a man trimmed the bushes.||aʊtsˈaɪd ɐ mˈæn tɹˈɪmd ðə bˈʊʃᵻz.
+sub-24/sub-24-_-NPC_cages||Animals are locked in cages.||ˈænɪməlz ɑːɹ lˈɑːkt ɪn kˈeɪdʒᵻz.
+sub-24/sub-24-_-NPC_camping||We bring a tent to go camping.||wiː bɹˈɪŋ ɐ tˈɛnt tə ɡˌoʊ kˈæmpɪŋ.
+sub-24/sub-24-_-NPC_candles||She blew out the birthday candles.||ʃiː blˈuː ˈaʊt ðə bˈɜːθdeɪ kˈændəlz.
+sub-24/sub-24-_-NPC_cane||The old man walked with a cane.||ðɪ ˈoʊld mˈæn wˈɔːkt wɪð ɐ kˈeɪn.
+sub-24/sub-24-_-NPC_cap||He screwed off the bottle cap.||hiː skɹˈuːd ˈɔf ðə bˈɑːɾəl kˈæp.
+sub-24/sub-24-_-NPC_cape||Superman wears a red cape.||sˈuːpɚmˌæn wˈɛɹz ɐ ɹˈɛd kˈeɪp.
+sub-24/sub-24-_-NPC_car||He puts gas in his car.||hiː pˌʊts ɡˈæs ɪn hɪz kˈɑːɹ.
+sub-24/sub-24-_-NPC_card||I signed a birthday card.||aɪ sˈaɪnd ɐ bˈɜːθdeɪ kˈɑːɹd.
+sub-24/sub-24-_-NPC_castle||A princess lives in a castle.||ɐ pɹˈɪnsɛs lˈaɪvz ɪn ɐ kˈæsəl.
+sub-24/sub-24-_-NPC_cat||Meow goes the cat.||mɪˈaʊ ɡoʊz ðə kˈæt.
+sub-24/sub-24-_-NPC_catch||I throw and you catch.||aɪ θɹˈoʊ ænd juː kˈætʃ.
+sub-24/sub-24-_-NPC_caves||Bats live in caves.||bˈæts lˈɪv ɪn kˈeɪvz.
+sub-24/sub-24-_-NPC_chalk||On the sidewalk I draw with  chalk.||ɔnðə sˈaɪdwɔːk aɪ dɹˈɔː wɪð tʃˈɔːk.
+sub-24/sub-24-_-NPC_cheese||Her favorite food is mac and cheese.||hɜː fˈeɪvɚɹᵻt fˈuːd ɪz mˈæk ænd tʃˈiːz.
+sub-24/sub-24-_-NPC_chest||My heart was pounding in my chest.||maɪ hˈɑːɹt wʌz pˈaʊndɪŋ ɪn maɪ tʃˈɛst.
+sub-24/sub-24-_-NPC_chick||A baby chicken is a chick.||ɐ bˈeɪbi tʃˈɪkɪn ɪz ɐ tʃˈɪk.
+sub-24/sub-24-_-NPC_claws||The cat has sharp claws.||ðə kˈæt hɐz ʃˈɑːɹp klˈɔːz.
+sub-24/sub-24-_-NPC_clay||In art class we mold clay.||ɪn ˈɑːɹt klˈæs wiː mˈoʊld klˈeɪ.
+sub-24/sub-24-_-NPC_clean||I keep my room clean.||aɪ kˈiːp maɪ ɹˈuːm klˈiːn.
+sub-24/sub-24-_-NPC_cliff||He stood at the edge of a cliff.||hiː stˈʊd æt ðɪ ˈɛdʒ əvə klˈɪf.
+sub-24/sub-24-_-NPC_clock||Tick tock goes the clock.||tˈɪk tˈɑːk ɡoʊz ðə klˈɑːk.
+sub-24/sub-24-_-NPC_clouds||In the sky are white fluffy clouds.||ɪnðə skˈaɪ ɑːɹ wˈaɪt flˈʌfi klˈaʊdz.
+sub-24/sub-24-_-NPC_clown||I laughed at the circus clown.||aɪ lˈæft æt ðə sˈɜːkəs klˈaʊn.
+sub-24/sub-24-_-NPC_clues||The detectives found many clues.||ðə dɪtˈɛktɪvz fˈaʊnd mˈɛni klˈuːz.
+sub-24/sub-24-_-NPC_coach||I was taught by my soccer coach.||aɪ wʌz tˈɔːt baɪ maɪ sˈɑːkɚ kˈoʊtʃ.
+sub-24/sub-24-_-NPC_coat||I put on my rain coat.||aɪ pˌʊt ˌɔn maɪ ɹˈeɪn kˈoʊt.
+sub-24/sub-24-_-NPC_cob||She eats corn on the cob.||ʃiː ˈiːts kˈɔːɹn ɔnðə kˈɑːb.
+sub-24/sub-24-_-NPC_cold||Winter is very cold.||wˈɪntɚɹ ɪz vˈɛɹi kˈoʊld.
+sub-24/sub-24-_-NPC_cone||He eats his ice cream on a cone.||hiː ˈiːts hɪz ˈaɪs kɹˈiːm ˌɔn ɐ kˈoʊn.
+sub-24/sub-24-_-NPC_cop||He was pulled over by a cop.||hiː wʌz pˈʊld ˌoʊvɚ baɪ ɐ kˈɑːp.
+sub-24/sub-24-_-NPC_couch||I watch tv and sit on the couch.||aɪ wˈɑːtʃ tˌiːvˈiː ænd sˈɪt ɔnðə kˈaʊtʃ.
+sub-24/sub-24-_-NPC_cough||My cold made me sneeze and cough.||maɪ kˈoʊld mˌeɪd mˌiː snˈiːz ænd kˈɔf.
+sub-24/sub-24-_-NPC_cow||Farmers milk the cows.||fˈɑːɹmɚz mˈɪlk ðə kˈaʊz.
+sub-24/sub-24-_-NPC_crafts||I like arts and crafts.||aɪ lˈaɪk ˈɑːɹts ænd kɹˈæfts.
+sub-24/sub-24-_-NPC_cream||I spray whipped cream.||aɪ spɹˈeɪ wˈɪpt kɹˈiːm.
+sub-24/sub-24-_-NPC_crown||A king wears a crown.||ɐ kˈɪŋ wˈɛɹz ɐ kɹˈaʊn.
+sub-24/sub-24-_-NPC_crust||His mom makes her own pie crust.||hɪz mˈɑːm mˌeɪks hɜːɹ ˈoʊn pˈaɪ kɹˈʌst.
+sub-24/sub-24-_-NPC_cry||When I am sad I cry.||wˌɛn aɪɐm sˈæd aɪ kɹˈaɪ.
+sub-24/sub-24-_-NPC_dancers||Ballerinas are great dancers.||bˌælɚɹˈiːnəz ɑːɹ ɡɹˈeɪt dˈænsɚz.
+sub-24/sub-24-_-NPC_dare||Lets play truth or dare.||lˈɛts plˈeɪ tɹˈuːθ ɔːɹ dˈɛɹ.
+sub-24/sub-24-_-NPC_deep||The pool was six feet deep.||ðə pˈuːl wʌz sˈɪks fˈiːt dˈiːp.
+sub-24/sub-24-_-NPC_desk||In school I sit at a desk.||ɪn skˈuːl aɪ sˈɪt æɾə dˈɛsk.
+sub-24/sub-24-_-NPC_dice||In games I roll the dice.||ɪn ɡˈeɪmz aɪ ɹˈoʊl ðə dˈaɪs.
+sub-24/sub-24-_-NPC_dip||I love chips and dip.||aɪ lˈʌv tʃˈɪps ænd dˈɪp.
+sub-24/sub-24-_-NPC_dirt||Worms crawl in the dirt.||wˈɜːmz kɹˈɔːl ɪnðə dˈɜːt.
+sub-24/sub-24-_-NPC_dog||Bark says the dog.||bˈɑːɹk sˈɛz ðə dˈɑːɡ.
+sub-24/sub-24-_-NPC_dolls||My sister plays with Barbie dolls.||maɪ sˈɪstɚ plˈeɪz wɪð bˈɑːɹbi dˈɑːlz.
+sub-24/sub-24-_-NPC_door||He shut the door.||hiː ʃˈʌt ðə dˈoːɹ.
+sub-24/sub-24-_-NPC_down||She told me to calm down.||ʃiː tˈoʊld mˌiː tə kˈɑːm dˈaʊn.
+sub-24/sub-24-_-NPC_dress||The bride wears a white dress.||ðə bɹˈaɪd wˈɛɹz ɐ wˈaɪt dɹˈɛs.
+sub-24/sub-24-_-NPC_drill||At school there was a fire drill.||æt skˈuːl ðɛɹwˌʌz ɐ fˈaɪɚ dɹˈɪl.
+sub-24/sub-24-_-NPC_duck||Quack goes the duck.||kwˈæk ɡoʊz ðə dˈʌk.
+sub-24/sub-24-_-NPC_dust||The old table was covered in dust.||ðɪ ˈoʊld tˈeɪbəl wʌz kˈʌvɚd ɪn dˈʌst.
+sub-24/sub-24-_-NPC_ears||I hear with my ears.||aɪ hˈɪɹ wɪð maɪ ˈɪɹz.
+sub-24/sub-24-_-NPC_earth||We live on planet earth.||wiː lˈɪv ˌɔn plˈænɪt ˈɜːθ.
+sub-24/sub-24-_-NPC_eats||The baby wears a bib when he eats.||ðə bˈeɪbi wˈɛɹz ɐ bˈɪb wɛn hiː ˈiːts.
+sub-24/sub-24-_-NPC_eyes||I see with my eyes.||aɪ sˈiː wɪð maɪ ˈaɪz.
+sub-24/sub-24-_-NPC_fake||The diamond was not real it was fake.||ðə dˈaɪəmənd wʌz nˌɑːt ɹˈiːəl ɪt wʌz fˈeɪk.
+sub-24/sub-24-_-NPC_fall||After summer is fall.||ˈæftɚ sˈʌmɚɹ ɪz fˈɔːl.
+sub-24/sub-24-_-NPC_farm||Cows live on a farm.||kˈaʊz lˈaɪv ˌɔn ɐ fˈɑːɹm.
+sub-24/sub-24-_-NPC_fast||Cheetahs  are really fast.||tʃˈiːɾəz ɑːɹ ɹˈiəli fˈæst.
+sub-24/sub-24-_-NPC_fat||Goats are skinny and pigs are fat.||ɡˈoʊts ɑːɹ skˈɪni ænd pˈɪɡz ɑːɹ fˈæt.
+sub-24/sub-24-_-NPC_fear||The brave man had no fear.||ðə bɹˈeɪv mˈæn hæd nˈoʊ fˈɪɹ.
+sub-24/sub-24-_-NPC_fight||The angry boys got in a fight.||ðɪ ˈæŋɡɹi bˈɔɪz ɡɑːt ɪn ɐ fˈaɪt.
+sub-24/sub-24-_-NPC_fin||Sharks have a tail fin.||ʃˈɑːɹks hæv ɐ tˈeɪl fˈɪn.
+sub-24/sub-24-_-NPC_fingers||On one hand I have five fingers.||ˌɔn wˈʌn hˈænd aɪ hæv fˈaɪv fˈɪŋɡɚz.
+sub-24/sub-24-_-NPC_fish||On the boat my dad caught a fish.||ɔnðə bˈoʊt maɪ dˈæd kˈɔːt ɐ fˈɪʃ.
+sub-24/sub-24-_-NPC_fist||I punched the bag with my fist.||aɪ pˈʌntʃt ðə bˈæɡ wɪð maɪ fˈɪst.
+sub-24/sub-24-_-NPC_fixed||The toy broke and needed to be fixed.||ðə tˈɔɪ bɹˈoʊk ænd nˈiːdᵻd təbi fˈɪkst.
+sub-24/sub-24-_-NPC_flag||He waves an American flag.||hiː wˈeɪvz ɐn ɐmˈɛɹɪkən flˈæɡ.
+sub-24/sub-24-_-NPC_flat||The earth is round not flat.||ðɪ ˈɜːθ ɪz ɹˈaʊnd nˌɑːt flˈæt.
+sub-24/sub-24-_-NPC_flip||On the trampoline he did a flip.||ɔnðə tɹˈæmpəlˌiːn hiː dˈɪd ɐ flˈɪp.
+sub-24/sub-24-_-NPC_flop||At the pool he did a belly flop.||æt ðə pˈuːl hiː dˈɪd ɐ bˈɛli flˈɑːp.
+sub-24/sub-24-_-NPC_fly||She swatted the fly.||ʃiː swˈɑːɾᵻd ðə flˈaɪ.
+sub-24/sub-24-_-NPC_foot||I put the sock on my foot.||aɪ pˌʊt ðə sˈɑːk ˌɔn maɪ fˈʊt.
+sub-24/sub-24-_-NPC_fork||He eats steak with a knife and fork.||hiː ˈiːts stˈeɪk wɪð ɐ nˈaɪf ænd fˈɔːɹk.
+sub-24/sub-24-_-NPC_freeze||In the winter the pond will freeze.||ɪnðə wˈɪntɚ ðə pˈɑːnd wɪl fɹˈiːz.
+sub-24/sub-24-_-NPC_fridge||The Jell-O had to chill in the fridge.||ðə dʒˈɛlˈoʊ hædtə tʃˈɪl ɪnðə fɹˈɪdʒ.
+sub-24/sub-24-_-NPC_friend||I play with my best friend.||aɪ plˈeɪ wɪð maɪ bˈɛst fɹˈɛnd.
+sub-24/sub-24-_-NPC_fruit||He likes to eat fresh fruit.||hiː lˈaɪks tʊ ˈiːt fɹˈɛʃ fɹˈuːt.
+sub-24/sub-24-_-NPC_game||His dad watches the football game.||hɪz dˈæd wˈɑːtʃᵻz ðə fˈʊtbɔːl ɡˈeɪm.
+sub-24/sub-24-_-NPC_gel||He styled his hair with gel.||hiː stˈaɪld hɪz hˈɛɹ wɪð dʒˈɛl.
+sub-24/sub-24-_-NPC_ghosts||The house was haunted by ghosts.||ðə hˈaʊs wʌz hˈɔːntᵻd baɪ ɡˈoʊsts.
+sub-24/sub-24-_-NPC_gills||Fish breathe through gills.||fˈɪʃ bɹˈiːð θɹuː ɡˈɪlz.
+sub-24/sub-24-_-NPC_glass||Windows are made of glass.||wˈɪndoʊz ɑːɹ mˌeɪd ʌv ɡlˈæs.
+sub-24/sub-24-_-NPC_gloves||On his hands are a pair of gloves.||ˌɔn hɪz hˈændz ɑːɹ ɐ pˈɛɹ ʌv ɡlˈʌvz.
+sub-24/sub-24-_-NPC_glue||The paper sticks together like glue.||ðə pˈeɪpɚ stˈɪks təɡˌɛðɚ lˈaɪk ɡlˈuː.
+sub-24/sub-24-_-NPC_goal||The soccer team scored a goal.||ðə sˈɑːkɚ tˈiːm skˈoːɹd ɐ ɡˈoʊl.
+sub-24/sub-24-_-NPC_goat||Bah says the sheep and goat.||bˈɑː sˈɛz ðə ʃˈiːp ænd ɡˈoʊt.
+sub-24/sub-24-_-NPC_gold||Wedding rings are made of gold.||wˈɛdɪŋ ɹˈɪŋz ɑːɹ mˌeɪd ʌv ɡˈoʊld.
+sub-24/sub-24-_-NPC_gone||The cookies were eaten until they were gone.||ðə kˈʊkiz wɜːɹ ˈiːʔn̩ ʌntˈɪl ðeɪ wɜː ɡˈɔn.
+sub-24/sub-24-_-NPC_goose||We played duck duck goose.||wiː plˈeɪd dˈʌk dˈʌk ɡˈuːs.
+sub-24/sub-24-_-NPC_grade||In school he is in first grade.||ɪn skˈuːl hiː ɪz ɪn fˈɜːst ɡɹˈeɪd.
+sub-24/sub-24-_-NPC_grapes||Raisins are dried grapes.||ɹˈeɪzənz ɑːɹ dɹˈaɪd ɡɹˈeɪps.
+sub-24/sub-24-_-NPC_gray||The rainy sky was colored gray.||ðə ɹˈeɪni skˈaɪ wʌz kˈʌlɚd ɡɹˈeɪ.
+sub-24/sub-24-_-NPC_green||The grass is colored green.||ðə ɡɹˈæs ɪz kˈʌlɚd ɡɹˈiːn.
+sub-24/sub-24-_-NPC_grill||He cooked hotdogs outside on the grill.||hiː kˈʊkt hˈɑːtdɑːɡz aʊtsˈaɪd ɔnðə ɡɹˈɪl.
+sub-24/sub-24-_-NPC_guess||On an answer he made a lucky guess.||ˌɔn ɐn ˈænsɚ hiː mˌeɪd ɐ lˈʌki ɡˈɛs.
+sub-24/sub-24-_-NPC_gum||He is chewing bubble gum.||hiː ɪz tʃˈuːɪŋ bˈʌbəl ɡˈʌm.
+sub-24/sub-24-_-NPC_hair||Bald people do not have hair.||bˈɔːld pˈiːpəl duːnˌɑːt hæv hˈɛɹ.
+sub-24/sub-24-_-NPC_hands||I clap my hands.||aɪ klˈæp maɪ hˈændz.
+sub-24/sub-24-_-NPC_hug||Charlie wanted a kiss and a hug.||tʃˈɑːɹli wˈɔntᵻd ɐ kˈɪs ænd ɐ hˈʌɡ.
+sub-24/sub-24-_-NPC_inches||This year he has grown two inches.||ðɪs jˈɪɹ hiː hɐz ɡɹˈoʊn tˈuː ˈɪntʃᵻz.
+sub-24/sub-24-_-NPC_job||His mom quit her job.||hɪz mˈɑːm kwˈɪt hɜː dʒˈɑːb.
+sub-24/sub-24-_-NPC_kitchen||She cooks in the kitchen.||ʃiː kˈʊks ɪnðə kˈɪtʃən.
+sub-24/sub-24-_-NPC_lawn||My dad mows the lawn.||maɪ dˈæd mˈoʊz ðə lˈɔːn.
+sub-24/sub-24-_-NPC_legs||Dogs have four legs.||dˈɑːɡz hæv fˈoːɹ lˈɛɡz.
+sub-24/sub-24-_-NPC_lie||Not telling the truth is telling a lie.||nˌɑːt tˈɛlɪŋ ðə tɹˈuːθ ɪz tˈɛlɪŋ ɐ lˈaɪ.
+sub-24/sub-24-_-NPC_nests||Birds like to build nests.||bˈɜːdz lˈaɪk tə bˈɪld nˈɛsts.
+sub-24/sub-24-_-NPC_nice||The opposite of mean is nice.||ðɪ ˈɑːpəzˌɪt ʌv mˈiːn ɪz nˈaɪs.
+sub-24/sub-24-_-NPC_night||It is dark at night.||ɪɾ ɪz dˈɑːɹk æt nˈaɪt.
+sub-24/sub-24-_-NPC_nine||The number before ten is nine.||ðə nˈʌmbɚ bᵻfˌoːɹ tˈɛn ɪz nˈaɪn.
+sub-24/sub-24-_-NPC_out||Three strikes and you are out!||θɹˈiː stɹˈaɪks ænd juː ɑːɹ ˈaʊt!
+sub-24/sub-24-_-NPC_outside||He put on his shoes to go outside.||hiː pˌʊt ˌɔn hɪz ʃˈuːz tə ɡˌoʊ aʊtsˈaɪd.
+sub-24/sub-24-_-NPC_pants||He pulled up his pants.||hiː pˈʊld ˌʌp hɪz pˈænts.
+sub-24/sub-24-_-NPC_party||He had fun at the birthday party.||hiː hæd fˈʌn æt ðə bˈɜːθdeɪ pˈɑːɹɾi.
+sub-24/sub-24-_-NPC_phone||He called Helen on the phone.||hiː kˈɔːld hˈɛlən ɔnðə fˈoʊn.
+sub-24/sub-24-_-NPC_pictures||I like to draw pictures.||aɪ lˈaɪk tə dɹˈɔː pˈɪktʃɚz.
+sub-24/sub-24-_-NPC_pipe||His grandpa smoked from a pipe.||hɪz ɡɹˈændpɑː smˈoʊkt fɹʌm ɐ pˈaɪp.
+sub-24/sub-24-_-NPC_plank||The pirate said walk the plank!||ðə pˈaɪɹət sˈɛd wˈɔːk ðə plˈæŋk!
+sub-24/sub-24-_-NPC_popped||The water balloon was so full it popped.||ðə wˈɔːɾɚ bəlˈuːn wʌz sˌoʊ fˈʊl ɪt pˈɑːpt.
+sub-24/sub-24-_-NPC_present||For his birthday I wrapped a present.||fɔːɹ hɪz bˈɜːθdeɪ aɪ ɹˈæpt ɐ pɹˈɛzənt.
+sub-24/sub-24-_-NPC_round||The ball is not square but round.||ðə bˈɔːl ɪz nˌɑːt skwˈɛɹ bˌʌt ɹˈaʊnd.
+sub-24/sub-24-_-NPC_shot||The doctor gave him a flu shot.||ðə dˈɑːktɚ ɡˈeɪv hˌɪm ɐ flˈuː ʃˈɑːt.
+sub-24/sub-24-_-NPC_skunk||His dog was sprayed by a skunk.||hɪz dˈɑːɡ wʌz spɹˈeɪd baɪ ɐ skˈʌŋk.
+sub-24/sub-24-_-NPC_solve||He had a mystery to solve.||hiː hæd ɐ mˈɪstɚɹi tə sˈɑːlv.
+sub-24/sub-24-_-NPC_spider||There are eight legs on a spider.||ðɛɹˌɑːɹ ˈeɪt lˈɛɡz ˌɔn ɐ spˈaɪdɚ.
+sub-24/sub-24-_-NPC_steal||A thief likes to steal.||ɐ θˈiːf lˈaɪks tə stˈiːl.
+sub-24/sub-24-_-NPC_store||We buy toys at the toy store.||wiː bˈaɪ tˈɔɪz æt ðə tˈɔɪ stˈoːɹ.
+sub-24/sub-24-_-NPC_stove||He burned his hand on the stove.||hiː bˈɜːnd hɪz hˈænd ɔnðə stˈoʊv.
+sub-24/sub-24-_-NPC_string||His guitar had a broken string.||hɪz ɡɪtˈɑːɹ hæd ɐ bɹˈoʊkən stɹˈɪŋ.
+sub-24/sub-24-_-NPC_study||He failed the test because he didn't study.||hiː fˈeɪld ðə tˈɛst bɪkˈʌz hiː dˈɪdnt stˈʌdi.
+sub-24/sub-24-_-NPC_sun||The clouds hid the sun.||ðə klˈaʊdz hˈɪd ðə sˈʌn.
+sub-24/sub-24-_-NPC_tank||Mom filled up her gas tank.||mˈɑːm fˈɪld ˌʌp hɜː ɡˈæs tˈæŋk.
+sub-24/sub-24-_-NPC_tear||Down the sad woman's cheek came a tear.||dˌaʊn ðə sˈæd wˈʊmənz tʃˈiːk kˈeɪm ɐ tˈɪɹ.
+sub-24/sub-24-_-NPC_test||I cheated on the test.||aɪ tʃˈiːɾᵻd ɔnðə tˈɛst.
+sub-24/sub-24-_-NPC_thorns||The rose had sharp thorns.||ðə ɹˈoʊz hæd ʃˈɑːɹp θˈɔːɹnz.
+sub-24/sub-24-_-NPC_three||I count one two three.||aɪ kˈaʊnt wˈʌn tˈuː θɹˈiː.
+sub-24/sub-24-_-NPC_toilet||I flush the toilet.||aɪ flˈʌʃ ðə tˈɔɪlɪt.
+sub-24/sub-24-_-NPC_trees||A monkey climbs trees.||ɐ mˈʌŋki klˈaɪmz tɹˈiːz.
+sub-24/sub-24-_-NPC_truck||His dad drove a delivery truck.||hɪz dˈæd dɹˈoʊv ɐ dᵻlˈɪvɚɹi tɹˈʌk.
+sub-24/sub-24-_-NPC_walk||Babies crawl before they walk.||bˈeɪbiz kɹˈɔːl bᵻfˌoːɹ ðeɪ wˈɔːk.
+sub-24/sub-24-_-NPC_wear||She had no clothes to wear.||ʃiː hæd nˈoʊ klˈoʊðz tə wˈɛɹ.
+sub-24/sub-24-_-NPC_wet||The water got her hair wet.||ðə wˈɔːɾɚ ɡɑːt hɜː hˈɛɹ wˈɛt.
+sub-24/sub-24-_-NPC_whales||The biggest animals in the sea are whales.||ðə bˈɪɡɪst ˈænɪməlz ɪnðə sˈiː ɑːɹ wˈeɪlz.
+sub-24/sub-24-_-NPC_wind||My hair was blown by the wind.||maɪ hˈɛɹ wʌz blˈoʊn baɪ ðə wˈɪnd.
+sub-24/sub-24-_-NPC_wood||He chopped the wood.||hiː tʃˈɑːpt ðə wˈʊd.
+sub-24/sub-24-_-NPI_aisle(chicken)||The bride walked down the chicken.||ðə bɹˈaɪd wˈɔːkt dˌaʊn ðə tʃˈɪkɪn.
+sub-24/sub-24-_-NPI_animals(trampoline)||The sign said do not feed the trampoline.||ðə sˈaɪn sˈɛd duːnˌɑːt fˈiːd ðə tɹˈæmpəlˌiːn.
+sub-24/sub-24-_-NPI_ants(fish)||The picnic was ruined by crawling fish.||ðə pˈɪknɪk wʌz ɹˈuːɪnd baɪ kɹˈɔːlɪŋ fˈɪʃ.
+sub-24/sub-24-_-NPI_apple(balloon)||His favorite fruit was a red crisp balloon.||hɪz fˈeɪvɚɹᵻt fɹˈuːt wʌzɐ ɹˈɛd kɹˈɪsp bəlˈuːn.
+sub-24/sub-24-_-NPI_arm(stack)||I have two legs and two stack.||aɪ hæv tˈuː lˈɛɡz ænd tˈuː stˈæk.
+sub-24/sub-24-_-NPI_axe(grass)||My dad chops wood with an grass.||maɪ dˈæd tʃˈɑːps wˈʊd wɪð æn ɡɹˈæs.
+sub-24/sub-24-_-NPI_bag(bell)||He puts his lunch in a paper bell.||hiː pˌʊts hɪz lˈʌntʃ ɪn ɐ pˈeɪpɚ bˈɛl.
+sub-24/sub-24-_-NPI_bake(milk)||The cake is in the oven to milk.||ðə kˈeɪk ɪz ɪnðɪ ˈʌvən tə mˈɪlk.
+sub-24/sub-24-_-NPI_bank(hike)||My mom puts money in the hike.||maɪ mˈɑːm pˌʊts mˈʌni ɪnðə hˈaɪk.
+sub-24/sub-24-_-NPI_barn(claw)||The farmer's animals live in the claw.||ðə fˈɑːɹmɚz ˈænɪməlz lˈɪv ɪn ðə klˈɔː.
+sub-24/sub-24-_-NPI_bat(gel)||The boy hit the ball with  a gel.||ðə bˈɔɪ hˈɪt ðə bˈɔːl wɪð ɐ dʒˈɛl.
+sub-24/sub-24-_-NPI_bath(roar)||To get clean I take a roar.||tə ɡɛt klˈiːn aɪ tˈeɪk ɐ ɹˈoːɹ.
+sub-24/sub-24-_-NPI_beat(sneeze)||The drummer keeps the sneeze.||ðə dɹˈʌmɚ kˈiːps ðə snˈiːz.
+sub-24/sub-24-_-NPI_bed(frog)||At night I sleep in my frog.||æt nˈaɪt aɪ slˈiːp ɪn maɪ fɹˈɑːɡ.
+sub-24/sub-24-_-NPI_belt(bed)||Around my pants I wear a bed.||ɚɹˈaʊnd maɪ pˈænts aɪ wˈɛɹ ɐ bˈɛd.
+sub-24/sub-24-_-NPI_bird(thorn)||Tweet goes the thorn.||twˈiːt ɡoʊz ðə θˈɔːɹn.
+sub-24/sub-24-_-NPI_blinking(belly)||She lost the staring contest by belly.||ʃiː lˈɔst ðə stˈɛɹɪŋ kˈɑːntɛst baɪ bˈɛli.
+sub-24/sub-24-_-NPI_blocks(night)||The baby liked to stack night.||ðə bˈeɪbi lˈaɪkt tə stˈæk nˈaɪt.
+sub-24/sub-24-_-NPI_bloom(school)||In spring the  flowers school.||ɪn spɹˈɪŋ ðə flˈaʊɚz skˈuːl.
+sub-24/sub-24-_-NPI_blue(arm)||The color of the sky is arm.||ðə kˈʌlɚɹ ʌvðə skˈaɪ ɪz ˈɑːɹm.
+sub-24/sub-24-_-NPI_boat(cop)||We went fishing on a cop.||wiː wɛnt fˈɪʃɪŋ ˌɔn ɐ kˈɑːp.
+sub-24/sub-24-_-NPI_bones(wind)||The Museum showed dinosaur wind.||ðə mjuːzˈiəm ʃˈoʊd dˈaɪnəsˌɔːɹ wˈɪnd.
+sub-24/sub-24-_-NPI_books(tear)||He likes to read tear.||hiː lˈaɪks tə ɹˈiːd tˈɪɹ.
+sub-24/sub-24-_-NPI_bottle(money)||The baby drinks from his money.||ðə bˈeɪbi dɹˈɪŋks fɹʌm hɪz mˈʌni.
+sub-24/sub-24-_-NPI_bow(eye)||On the present I tied a eye.||ɔnðə pɹˈɛzənt aɪ tˈaɪd ɐ ˈaɪ.
+sub-24/sub-24-_-NPI_bowl(test)||He pours cereal into a test.||hiː pˈoːɹz sˈiəɹɪəl ˌɪntʊ ɐ tˈɛst.
+sub-24/sub-24-_-NPI_brakes(cob)||The car stopped with its cob.||ðə kˈɑːɹ stˈɑːpt wɪð ɪts kˈɑːb.
+sub-24/sub-24-_-NPI_bread(sea)||She baked a loaf of sea.||ʃiː bˈeɪkt ɐ lˈoʊf ʌv sˈiː.
+sub-24/sub-24-_-NPI_bricks(leg)||My fireplace is made of red leg.||maɪ fˈaɪɚpleɪs ɪz mˌeɪd ʌv ɹˈɛd lˈɛɡ.
+sub-24/sub-24-_-NPI_bridge(steak)||Boats sail under the steak.||bˈoʊts sˈeɪl ˌʌndɚ ðə stˈeɪk.
+sub-24/sub-24-_-NPI_bright(gills)||I wear sunglasses because the sun is gills.||aɪ wˈɛɹ sˈʌŋɡlæsᵻz bɪkˈʌz ðə sˈʌn ɪz ɡˈɪlz.
+sub-24/sub-24-_-NPI_broke(pond)||He wore a cast because his arm pond.||hiː wˈoːɹ ɐ kˈæst bɪkˈʌz hɪz ˈɑːɹm pˈɑːnd.
+sub-24/sub-24-_-NPI_broom(bus)||I sweep the floor with a bus.||aɪ swˈiːp ðə flˈoːɹ wɪð ɐ bˈʌs.
+sub-24/sub-24-_-NPI_brown(job)||A tree trunk is colored job.||ɐ tɹˈiː tɹˈʌŋk ɪz kˈʌlɚd dʒˈɑːb.
+sub-24/sub-24-_-NPI_bruise(rain)||I hit my arm and got a rain.||aɪ hˈɪt maɪ ˈɑːɹm ænd ɡɑːt ɐ ɹˈeɪn.
+sub-24/sub-24-_-NPI_bulb(farm)||Tom replaced the light farm.||tˈɑːm ɹᵻplˈeɪst ðə lˈaɪt fˈɑːɹm.
+sub-24/sub-24-_-NPI_bus(egg)||To school I ride the yellow egg.||tə skˈuːl aɪ ɹˈaɪd ðə jˈɛloʊ ˈɛɡ.
+sub-24/sub-24-_-NPI_bushes(oven)||Outside a man trimmed the oven.||aʊtsˈaɪd ɐ mˈæn tɹˈɪmd ðɪ ˈʌvən.
+sub-24/sub-24-_-NPI_button(hotdog)||On the remote he clicked the hotdog.||ɔnðə ɹᵻmˈoʊt hiː klˈɪkt ðə hˈɑːtdɑːɡ.
+sub-24/sub-24-_-NPI_cake(clue)||He baked a birthday clue.||hiː bˈeɪkt ɐ bˈɜːθdeɪ klˈuː.
+sub-24/sub-24-_-NPI_camping(bacon)||We bring a tent to go bacon.||wiː bɹˈɪŋ ɐ tˈɛnt tə ɡˌoʊ bˈeɪkən.
+sub-24/sub-24-_-NPI_candles(planet)||She blew out the birthday planet.||ʃiː blˈuː ˈaʊt ðə bˈɜːθdeɪ plˈænɪt.
+sub-24/sub-24-_-NPI_cane(fin)||The old man walked with a fin.||ðɪ ˈoʊld mˈæn wˈɔːkt wɪð ɐ fˈɪn.
+sub-24/sub-24-_-NPI_cap(chore)||He screwed off the bottle chore.||hiː skɹˈuːd ˈɔf ðə bˈɑːɾəl tʃˈoːɹ.
+sub-24/sub-24-_-NPI_cape(pole)||Superman wears a red pole.||sˈuːpɚmˌæn wˈɛɹz ɐ ɹˈɛd pˈoʊl.
+sub-24/sub-24-_-NPI_car(chest)||He puts gas in his chest.||hiː pˌʊts ɡˈæs ɪn hɪz tʃˈɛst.
+sub-24/sub-24-_-NPI_cart(score)||At the store I pushed the score.||æt ðə stˈoːɹ aɪ pˈʊʃt ðə skˈoːɹ.
+sub-24/sub-24-_-NPI_castle(doctor)||A princess lives in a doctor.||ɐ pɹˈɪnsɛs lˈaɪvz ɪn ɐ dˈɑːktɚ.
+sub-24/sub-24-_-NPI_cat(spray)||Meow goes the spray.||mɪˈaʊ ɡoʊz ðə spɹˈeɪ.
+sub-24/sub-24-_-NPI_catch(road)||I throw and you road.||aɪ θɹˈoʊ ænd juː ɹˈoʊd.
+sub-24/sub-24-_-NPI_caves(string)||Bats live in string.||bˈæts lˈɪv ɪn stɹˈɪŋ.
+sub-24/sub-24-_-NPI_chalk(fat)||On the sidewalk I draw with  fat.||ɔnðə sˈaɪdwɔːk aɪ dɹˈɔː wɪð fˈæt.
+sub-24/sub-24-_-NPI_cheese(clock)||Her favorite food is mac and clock.||hɜː fˈeɪvɚɹᵻt fˈuːd ɪz mˈæk ænd klˈɑːk.
+sub-24/sub-24-_-NPI_chest(sock)||My heart was pounding in my sock.||maɪ hˈɑːɹt wʌz pˈaʊndɪŋ ɪn maɪ sˈɑːk.
+sub-24/sub-24-_-NPI_chick(bruise)||A baby chicken is a bruise.||ɐ bˈeɪbi tʃˈɪkɪn ɪz ɐ bɹˈuːz.
+sub-24/sub-24-_-NPI_chores(cave)||My mom makes me do household cave.||maɪ mˈɑːm mˌeɪks mˌiː dˈuː hˈaʊzhoʊld kˈeɪv.
+sub-24/sub-24-_-NPI_claws(floor)||The cat has sharp floor.||ðə kˈæt hɐz ʃˈɑːɹp flˈoːɹ.
+sub-24/sub-24-_-NPI_clay(gas)||In art class we mold gas.||ɪn ˈɑːɹt klˈæs wiː mˈoʊld ɡˈæs.
+sub-24/sub-24-_-NPI_clean(cheek)||I keep my room cheek.||aɪ kˈiːp maɪ ɹˈuːm tʃˈiːk.
+sub-24/sub-24-_-NPI_clock(tree)||Tick tock goes the tree.||tˈɪk tˈɑːk ɡoʊz ðə tɹˈiː.
+sub-24/sub-24-_-NPI_clothes(bite)||My parents fold my bite.||maɪ pˈɛɹənts fˈoʊld maɪ bˈaɪt.
+sub-24/sub-24-_-NPI_clouds(dirt)||In the sky are white fluffy dirt.||ɪnðə skˈaɪ ɑːɹ wˈaɪt flˈʌfi dˈɜːt.
+sub-24/sub-24-_-NPI_clown(dice)||I laughed at the circus dice.||aɪ lˈæft æt ðə sˈɜːkəs dˈaɪs.
+sub-24/sub-24-_-NPI_clues(year)||The detectives found many year.||ðə dɪtˈɛktɪvz fˈaʊnd mˈɛni jˈɪɹ.
+sub-24/sub-24-_-NPI_coach(goose)||I was taught by my soccer goose.||aɪ wʌz tˈɔːt baɪ maɪ sˈɑːkɚ ɡˈuːs.
+sub-24/sub-24-_-NPI_coat(loaf)||I put on my rain loaf.||aɪ pˌʊt ˌɔn maɪ ɹˈeɪn lˈoʊf.
+sub-24/sub-24-_-NPI_cob(lie)||She eats corn on the lie.||ʃiː ˈiːts kˈɔːɹn ɔnðə lˈaɪ.
+sub-24/sub-24-_-NPI_cold(bib)||Winter is very bib.||wˈɪntɚɹ ɪz vˈɛɹi bˈɪb.
+sub-24/sub-24-_-NPI_cone(hug)||He eats his ice cream on a hug.||hiː ˈiːts hɪz ˈaɪs kɹˈiːm ˌɔn ɐ hˈʌɡ.
+sub-24/sub-24-_-NPI_cop(cake)||He was pulled over by a cake.||hiː wʌz pˈʊld ˌoʊvɚ baɪ ɐ kˈeɪk.
+sub-24/sub-24-_-NPI_couch(bulb)||I watch tv and sit on the bulb.||aɪ wˈɑːtʃ tˌiːvˈiː ænd sˈɪt ɔnðə bˈʌlb.
+sub-24/sub-24-_-NPI_cough(friend)||My cold made me sneeze and friend.||maɪ kˈoʊld mˌeɪd mˌiː snˈiːz ænd fɹˈɛnd.
+sub-24/sub-24-_-NPI_cow(axe)||Farmers milk the axe.||fˈɑːɹmɚz mˈɪlk ðɪ ˈæks.
+sub-24/sub-24-_-NPI_crafts(tank)||I like arts and tank.||aɪ lˈaɪk ˈɑːɹts ænd tˈæŋk.
+sub-24/sub-24-_-NPI_cream(couch)||I spray whipped couch.||aɪ spɹˈeɪ wˈɪpt kˈaʊtʃ.
+sub-24/sub-24-_-NPI_cribs(shot)||Babies sleep in shot.||bˈeɪbiz slˈiːp ɪn ʃˈɑːt.
+sub-24/sub-24-_-NPI_crown(bench)||A king wears a bench.||ɐ kˈɪŋ wˈɛɹz ɐ bˈɛntʃ.
+sub-24/sub-24-_-NPI_crust(foot)||His mom makes her own pie foot.||hɪz mˈɑːm mˌeɪks hɜːɹ ˈoʊn pˈaɪ fˈʊt.
+sub-24/sub-24-_-NPI_dancers(pirate)||Ballerinas are great pirate.||bˌælɚɹˈiːnəz ɑːɹ ɡɹˈeɪt pˈaɪɹət.
+sub-24/sub-24-_-NPI_deep(bone)||The pool was six feet bone.||ðə pˈuːl wʌz sˈɪks fˈiːt bˈoʊn.
+sub-24/sub-24-_-NPI_desk(ice)||In school I sit at a ice.||ɪn skˈuːl aɪ sˈɪt æɾə ˈaɪs.
+sub-24/sub-24-_-NPI_dip(cage)||I love chips and cage.||aɪ lˈʌv tʃˈɪps ænd kˈeɪdʒ.
+sub-24/sub-24-_-NPI_dirt(screw)||Worms crawl in the screw.||wˈɜːmz kɹˈɔːl ɪnðə skɹˈuː.
+sub-24/sub-24-_-NPI_dog(chalk)||Bark says the chalk.||bˈɑːɹk sˈɛz ðə tʃˈɔːk.
+sub-24/sub-24-_-NPI_dolls(worm)||My sister plays with Barbie worm.||maɪ sˈɪstɚ plˈeɪz wɪð bˈɑːɹbi wˈɜːm.
+sub-24/sub-24-_-NPI_door(smoke)||He shut the smoke.||hiː ʃˈʌt ðə smˈoʊk.
+sub-24/sub-24-_-NPI_dream(lawn)||She woke up after a bad lawn.||ʃiː wˈoʊk ˌʌp ˈæftɚɹ ɐ bˈæd lˈɔːn.
+sub-24/sub-24-_-NPI_dress(fun)||The bride wears a white fun.||ðə bɹˈaɪd wˈɛɹz ɐ wˈaɪt fˈʌn.
+sub-24/sub-24-_-NPI_drill(bowl)||At school there was a fire bowl.||æt skˈuːl ðɛɹwˌʌz ɐ fˈaɪɚ bˈoʊl.
+sub-24/sub-24-_-NPI_duck(bank)||Quack goes the bank.||kwˈæk ɡoʊz ðə bˈæŋk.
+sub-24/sub-24-_-NPI_dust(cook)||The old table was covered in cook.||ðɪ ˈoʊld tˈeɪbəl wʌz kˈʌvɚd ɪn kˈʊk.
+sub-24/sub-24-_-NPI_ears(bee)||I hear with my bee.||aɪ hˈɪɹ wɪð maɪ bˈiː.
+sub-24/sub-24-_-NPI_earth(rose)||We live on planet rose.||wiː lˈɪv ˌɔn plˈænɪt ɹˈoʊz.
+sub-24/sub-24-_-NPI_eats(ball)||The baby wears a bib when he ball.||ðə bˈeɪbi wˈɛɹz ɐ bˈɪb wɛn hiː bˈɔːl.
+sub-24/sub-24-_-NPI_eyes(hip)||I see with my hip.||aɪ sˈiː wɪð maɪ hˈɪp.
+sub-24/sub-24-_-NPI_fake(crust)||The diamond was not real it was crust.||ðə dˈaɪəmənd wʌz nˌɑːt ɹˈiːəl ɪt wʌz kɹˈʌst.
+sub-24/sub-24-_-NPI_farm(bird)||Cows live on a bird.||kˈaʊz lˈaɪv ˌɔn ɐ bˈɜːd.
+sub-24/sub-24-_-NPI_fast(thief)||Cheetahs  are really thief.||tʃˈiːɾəz ɑːɹ ɹˈiəli θˈiːf.
+sub-24/sub-24-_-NPI_fat(glass)||Goats are skinny and pigs are glass.||ɡˈoʊts ɑːɹ skˈɪni ænd pˈɪɡz ɑːɹ ɡlˈæs.
+sub-24/sub-24-_-NPI_fear(walk)||The brave man had no walk.||ðə bɹˈeɪv mˈæn hæd nˈoʊ wˈɔːk.
+sub-24/sub-24-_-NPI_fight(mouse)||The angry boys got in a mouse.||ðɪ ˈæŋɡɹi bˈɔɪz ɡɑːt ɪn ɐ mˈaʊs.
+sub-24/sub-24-_-NPI_fin(desk)||Sharks have a tail desk.||ʃˈɑːɹks hæv ɐ tˈeɪl dˈɛsk.
+sub-24/sub-24-_-NPI_fingers(kitchen)||On one hand I have five kitchen.||ˌɔn wˈʌn hˈænd aɪ hæv fˈaɪv kˈɪtʃən.
+sub-24/sub-24-_-NPI_fish(cry)||On the boat my dad caught a cry.||ɔnðə bˈoʊt maɪ dˈæd kˈɔːt ɐ kɹˈaɪ.
+sub-24/sub-24-_-NPI_fist(bath)||I punched the bag with my bath.||aɪ pˈʌntʃt ðə bˈæɡ wɪð maɪ bˈæθ.
+sub-24/sub-24-_-NPI_fixed(dog)||The toy broke and needed to be dog.||ðə tˈɔɪ bɹˈoʊk ænd nˈiːdᵻd təbi dˈɑːɡ.
+sub-24/sub-24-_-NPI_flag(touch)||He waves an American touch.||hiː wˈeɪvz ɐn ɐmˈɛɹɪkən tˈʌtʃ.
+sub-24/sub-24-_-NPI_flat(cow)||The earth is round not cow.||ðɪ ˈɜːθ ɪz ɹˈaʊnd nˌɑːt kˈaʊ.
+sub-24/sub-24-_-NPI_flip(dark)||On the trampoline he did a dark.||ɔnðə tɹˈæmpəlˌiːn hiː dˈɪd ɐ dˈɑːɹk.
+sub-24/sub-24-_-NPI_flop(toy)||At the pool he did a belly toy.||æt ðə pˈuːl hiː dˈɪd ɐ bˈɛli tˈɔɪ.
+sub-24/sub-24-_-NPI_fly(edge)||She swatted the edge.||ʃiː swˈɑːɾᵻd ðɪ ˈɛdʒ.
+sub-24/sub-24-_-NPI_foot(shout)||I put the sock on my shout.||aɪ pˌʊt ðə sˈɑːk ˌɔn maɪ ʃˈaʊt.
+sub-24/sub-24-_-NPI_freeze(sun)||In the winter the pond will sun.||ɪnðə wˈɪntɚ ðə pˈɑːnd wɪl sˈʌn.
+sub-24/sub-24-_-NPI_fridge(pig)||The Jell-O had to chill in the pig.||ðə dʒˈɛlˈoʊ hædtə tʃˈɪl ɪnðə pˈɪɡ.
+sub-24/sub-24-_-NPI_friend(pound)||I play with my best pound.||aɪ plˈeɪ wɪð maɪ bˈɛst pˈaʊnd.
+sub-24/sub-24-_-NPI_frog(glove)||Ribbit goes the glove.||ɹˈɪbɪt ɡoʊz ðə ɡlˈʌv.
+sub-24/sub-24-_-NPI_fruit(tent)||He likes to eat fresh tent.||hiː lˈaɪks tʊ ˈiːt fɹˈɛʃ tˈɛnt.
+sub-24/sub-24-_-NPI_fur(dad)||Cats have soft dad.||kˈæts hæv sˈɔft dˈæd.
+sub-24/sub-24-_-NPI_game(coal)||His dad watches the football coal.||hɪz dˈæd wˈɑːtʃᵻz ðə fˈʊtbɔːl kˈoʊl.
+sub-24/sub-24-_-NPI_ghosts(strike)||The house was haunted by strike.||ðə hˈaʊs wʌz hˈɔːntᵻd baɪ stɹˈaɪk.
+sub-24/sub-24-_-NPI_gills(doll)||Fish breathe through doll.||fˈɪʃ bɹˈiːð θɹuː dˈɑːl.
+sub-24/sub-24-_-NPI_glass(shoe)||Windows are made of shoe.||wˈɪndoʊz ɑːɹ mˌeɪd ʌv ʃˈuː.
+sub-24/sub-24-_-NPI_gloves(car)||On his hands are a pair of car.||ˌɔn hɪz hˈændz ɑːɹ ɐ pˈɛɹ ʌv kˈɑːɹ.
+sub-24/sub-24-_-NPI_glue(cliff)||The paper sticks together like cliff.||ðə pˈeɪpɚ stˈɪks təɡˌɛðɚ lˈaɪk klˈɪf.
+sub-24/sub-24-_-NPI_goal(hair)||The soccer team scored a hair.||ðə sˈɑːkɚ tˈiːm skˈoːɹd ɐ hˈɛɹ.
+sub-24/sub-24-_-NPI_goat(bread)||Bah says the sheep and bread.||bˈɑː sˈɛz ðə ʃˈiːp ænd bɹˈɛd.
+sub-24/sub-24-_-NPI_gold(fridge)||Wedding rings are made of fridge.||wˈɛdɪŋ ɹˈɪŋz ɑːɹ mˌeɪd ʌv fɹˈɪdʒ.
+sub-24/sub-24-_-NPI_gone(feet)||The cookies were eaten until they were feet.||ðə kˈʊkiz wɜːɹ ˈiːʔn̩ ʌntˈɪl ðeɪ wɜː fˈiːt.
+sub-24/sub-24-_-NPI_goose(pipe)||We played duck duck pipe.||wiː plˈeɪd dˈʌk dˈʌk pˈaɪp.
+sub-24/sub-24-_-NPI_grade(grill)||In school he is in first grill.||ɪn skˈuːl hiː ɪz ɪn fˈɜːst ɡɹˈɪl.
+sub-24/sub-24-_-NPI_grapes(man)||Raisins are dried man.||ɹˈeɪzənz ɑːɹ dɹˈaɪd mˈæn.
+sub-24/sub-24-_-NPI_gray(bald)||The rainy sky was colored bald.||ðə ɹˈeɪni skˈaɪ wʌz kˈʌlɚd bˈɔːld.
+sub-24/sub-24-_-NPI_green(lock)||The grass is colored lock.||ðə ɡɹˈæs ɪz kˈʌlɚd lˈɑːk.
+sub-24/sub-24-_-NPI_grill(heart)||He cooked hotdogs outside on the heart.||hiː kˈʊkt hˈɑːtdɑːɡz aʊtsˈaɪd ɔnðə hˈɑːɹt.
+sub-24/sub-24-_-NPI_guess(grape)||On an answer he made a lucky grape.||ˌɔn ɐn ˈænsɚ hiː mˌeɪd ɐ lˈʌki ɡɹˈeɪp.
+sub-24/sub-24-_-NPI_gum(coat)||He is chewing bubble coat.||hiː ɪz tʃˈuːɪŋ bˈʌbəl kˈoʊt.
+sub-24/sub-24-_-NPI_hair(nest)||Bald people do not have nest.||bˈɔːld pˈiːpəl duːnˌɑːt hæv nˈɛst.
+sub-24/sub-24-_-NPI_hands(king)||I clap my king.||aɪ klˈæp maɪ kˈɪŋ.
+sub-24/sub-24-_-NPI_hug(fear)||Charlie wanted a kiss and a fear.||tʃˈɑːɹli wˈɔntᵻd ɐ kˈɪs ænd ɐ fˈɪɹ.
+sub-24/sub-24-_-NPI_inches(cookie)||This year he has grown two cookie.||ðɪs jˈɪɹ hiː hɐz ɡɹˈoʊn tˈuː kˈʊki.
+sub-24/sub-24-_-NPI_job(pants)||His mom quit her pants.||hɪz mˈɑːm kwˈɪt hɜː pˈænts.
+sub-24/sub-24-_-NPI_kitchen(baby)||She cooks in the baby.||ʃiː kˈʊks ɪnðə bˈeɪbi.
+sub-24/sub-24-_-NPI_lawn(weight)||My dad mows the weight.||maɪ dˈæd mˈoʊz ðə wˈeɪt.
+sub-24/sub-24-_-NPI_legs(barn)||Dogs have four barn.||dˈɑːɡz hæv fˈoːɹ bˈɑːɹn.
+sub-24/sub-24-_-NPI_lie(cup)||Not telling the truth is telling a cup.||nˌɑːt tˈɛlɪŋ ðə tɹˈuːθ ɪz tˈɛlɪŋ ɐ kˈʌp.
+sub-24/sub-24-_-NPI_mouse(store)||The cat chased the store.||ðə kˈæt tʃˈeɪst ðə stˈoːɹ.
+sub-24/sub-24-_-NPI_nests(drill)||Birds like to build drill.||bˈɜːdz lˈaɪk tə bˈɪld dɹˈɪl.
+sub-24/sub-24-_-NPI_nice(gum)||The opposite of mean is gum.||ðɪ ˈɑːpəzˌɪt ʌv mˈiːn ɪz ɡˈʌm.
+sub-24/sub-24-_-NPI_outside(apple)||He put on his shoes to go apple.||hiː pˌʊt ˌɔn hɪz ʃˈuːz tə ɡˌoʊ ˈæpəl.
+sub-24/sub-24-_-NPI_pants(woods)||He pulled up his woods.||hiː pˈʊld ˌʌp hɪz wˈʊdz.
+sub-24/sub-24-_-NPI_party(sidewalk)||He had fun at the birthday sidewalk.||hiː hæd fˈʌn æt ðə bˈɜːθdeɪ sˈaɪdwɔːk.
+sub-24/sub-24-_-NPI_phone(snake)||He called Helen on the snake.||hiː kˈɔːld hˈɛlən ɔnðə snˈeɪk.
+sub-24/sub-24-_-NPI_pictures(contest)||I like to draw contest.||aɪ lˈaɪk tə dɹˈɔː kˈɑːntɛst.
+sub-24/sub-24-_-NPI_pipe(phone)||His grandpa smoked from a phone.||hɪz ɡɹˈændpɑː smˈoʊkt fɹʌm ɐ fˈoʊn.
+sub-24/sub-24-_-NPI_present(sister)||For his birthday I wrapped a sister.||fɔːɹ hɪz bˈɜːθdeɪ aɪ ɹˈæpt ɐ sˈɪstɚ.
+sub-24/sub-24-_-NPI_shot(crown)||The doctor gave him a flu crown.||ðə dˈɑːktɚ ɡˈeɪv hˌɪm ɐ flˈuː kɹˈaʊn.
+sub-24/sub-24-_-NPI_skunk(broom)||His dog was sprayed by a broom.||hɪz dˈɑːɡ wʌz spɹˈeɪd baɪ ɐ bɹˈuːm.
+sub-24/sub-24-_-NPI_snake(play)||Hiss goes the play.||hˈɪs ɡoʊz ðə plˈeɪ.
+sub-24/sub-24-_-NPI_solve(cloud)||He had a mystery to cloud.||hiː hæd ɐ mˈɪstɚɹi tə klˈaʊd.
+sub-24/sub-24-_-NPI_spider(summer)||There are eight legs on a summer.||ðɛɹˌɑːɹ ˈeɪt lˈɛɡz ˌɔn ɐ sˈʌmɚ.
+sub-24/sub-24-_-NPI_steal(earth)||A thief likes to earth.||ɐ θˈiːf lˈaɪks tʊ ˈɜːθ.
+sub-24/sub-24-_-NPI_store(stick)||We buy toys at the toy stick.||wiː bˈaɪ tˈɔɪz æt ðə tˈɔɪ stˈɪk.
+sub-24/sub-24-_-NPI_stove(kid)||He burned his hand on the kid.||hiː bˈɜːnd hɪz hˈænd ɔnðə kˈɪd.
+sub-24/sub-24-_-NPI_string(chick)||His guitar had a broken chick.||hɪz ɡɪtˈɑːɹ hæd ɐ bɹˈoʊkən tʃˈɪk.
+sub-24/sub-24-_-NPI_study(princess)||He failed the test because he didn't princess.||hiː fˈeɪld ðə tˈɛst bɪkˈʌz hiː dˈɪdnt pɹˈɪnsɛs.
+sub-24/sub-24-_-NPI_sun(lunch)||The clouds hid the lunch.||ðə klˈaʊdz hˈɪd ðə lˈʌntʃ.
+sub-24/sub-24-_-NPI_tank(truth)||Mom filled up her gas truth.||mˈɑːm fˈɪld ˌʌp hɜː ɡˈæs tɹˈuːθ.
+sub-24/sub-24-_-NPI_tear(corn)||Down the sad woman's cheek came a corn.||dˌaʊn ðə sˈæd wˈʊmənz tʃˈiːk kˈeɪm ɐ kˈɔːɹn.
+sub-24/sub-24-_-NPI_test(dust)||I cheated on the dust.||aɪ tʃˈiːɾᵻd ɔnðə dˈʌst.
+sub-24/sub-24-_-NPI_thorns(house)||The rose had sharp house.||ðə ɹˈoʊz hæd ʃˈɑːɹp hˈaʊs.
+sub-24/sub-24-_-NPI_three(boy)||I count one two boy.||aɪ kˈaʊnt wˈʌn tˈuː bˈɔɪ.
+sub-24/sub-24-_-NPI_toilet(window)||I flush the window.||aɪ flˈʌʃ ðə wˈɪndoʊ.
+sub-24/sub-24-_-NPI_trees(book)||A monkey climbs book.||ɐ mˈʌŋki klˈaɪmz bˈʊk.
+sub-24/sub-24-_-NPI_truck(cap)||His dad drove a delivery break.||hɪz dˈæd dɹˈoʊv ɐ dᵻlˈɪvɚɹi bɹˈeɪk.
+sub-24/sub-24-_-NPI_walk(class)||Babies crawl before they class.||bˈeɪbiz kɹˈɔːl bᵻfˌoːɹ ðeɪ klˈæs.
+sub-24/sub-24-_-NPI_wear(chief)||She had no clothes to chief.||ʃiː hæd nˈoʊ klˈoʊðz tə tʃˈiːf.
+sub-24/sub-24-_-NPI_wet(whale)||The water got her hair whale.||ðə wˈɔːɾɚ ɡɑːt hɜː hˈɛɹ wˈeɪl.
+sub-24/sub-24-_-NPI_whales(dress)||The biggest animals in the sea are dress.||ðə bˈɪɡɪst ˈænɪməlz ɪnðə sˈiː ɑːɹ dɹˈɛs.
+sub-24/sub-24-_-NPI_wind(cheese)||My hair was blown by the cheese.||maɪ hˈɛɹ wʌz blˈoʊn baɪ ðə tʃˈiːz.
+sub-24/sub-24-_-NPI_wood(cough)||He chopped the cough.||hiː tʃˈɑːpt ðə kˈɔf.
